@@ -40,3 +40,28 @@ precise archive question: **Do population or non-holder lists survive for
 Amt Bückeburg, especially Berenbusch/Evesen/Nordholz/Petzen, ca.
 1720–1850?** If the archivist says no, that saves you months.
 
+## Email to Archive Inquiring About Such Lists
+
+Sehr geehrte Damen und Herren,
+
+ich erforsche die Familie Krückeberg im Kirchspiel Petzen, besonders in
+Berenbusch, Evesen und Nordholz, für den Zeitraum ca. 1720–1850.
+
+Meine Frage ist: Gibt es für das Amt Bückeburg, insbesondere für
+Berenbusch, Evesen, Nordholz oder das Kirchspiel Petzen, systematische
+Listen oder Register, die Einwohner über die Stätten- oder Kolonatsinhaber
+hinaus namentlich erfassen?
+
+Von besonderem Interesse wären zum Beispiel Einlieger, Beisitzer, Arme,
+Konskribierte, Schutzgeldpflichtige oder andere Einwohner ohne eigene
+Stätte/Hausstelle.
+
+Falls solche Quellen vorhanden sind, wäre ich Ihnen für Hinweise auf
+Bestände, Signaturen oder passende Suchbegriffe in Arcinsys sehr dankbar.
+
+Mit freundlichen Grüßen
+
+Kurt Krueckeberg
+
+
+
