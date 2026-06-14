@@ -1,10 +1,9 @@
-# Auto-generated from project.toc in myst.yml for Jupyter Book 1
-# Note: JB1 does not support title-only grouping below chapter level;
-# those nested groups have been flattened, with comments preserving their labels.
 format: jb-book
 root: index
-chapters:
-  - file: research/bueckeburg-archive-organization
-  - file: research/tracking-holdings-in-berenbusch
-  - file: research/census-like-records-1728-1750
-  - file: research/other-research-leads
+parts:
+  - caption: Further Bückeburg Archival Research
+  chapters:
+    - file: research/bueckeburg-archive-organization
+    - file: research/tracking-holdings-in-berenbusch
+    - file: research/census-like-records-1728-1750
+    - file: research/other-research-leads
