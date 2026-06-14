@@ -1,9 +1,8 @@
-format: jb-book
+format: jb-article
 root: index
 
-chapters:
+sections:
   - file: research/bueckeburg-archive-organization
-    sections:
-      - file: research/tracking-holdings-in-berenbusch
-      - file: research/census-like-records-1728-1750
-      - file: research/other-research-leads
+  - file: research/tracking-holdings-in-berenbusch
+  - file: research/census-like-records-1728-1750
+  - file: research/other-research-leads
