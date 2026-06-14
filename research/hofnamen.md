@@ -26,6 +26,8 @@ Germany**. It thrived anywhere agricultural law dictated that an estate had
 to be inherited as a single, indivisible unit (implying the name stayed
 with the land to protect tax and feudal records).
 
+## Regions with this "Curveball" Naming Practice
+
 ### Northwestern Germany (The Core Region)
 
 This was the absolute stronghold of the practice, deeply rooted in
