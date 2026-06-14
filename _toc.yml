@@ -3,6 +3,7 @@ root: index
 
 sections:
   - file: research/bueckeburg-archive-organization
+  - file: research/general-research-plan
   - file: research/hofnamen
   - file: research/tracking-holdings-in-berenbusch
   - file: research/census-like-records-1728-1750
