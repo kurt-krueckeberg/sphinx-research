@@ -3,7 +3,7 @@
 # those nested groups have been flattened, with comments preserving their labels.
 format: jb-book
 root: research/bueckeburg-archive-organization
-sections:
+chapters:
   - file: research/tracking-holdings-in-berenbusch
   - file: research/census-like-records-1728-1750
   - file: research/other-research-leads
