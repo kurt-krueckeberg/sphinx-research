@@ -16,6 +16,7 @@
 
 ## Records/Background to Research
 
+- Don't be afraid to ask archivists!
 - CompGen Website: Any Krückeberg researchers listed? Any resources it
   mentions
 - Blue book I have for doing German genealogy research.
