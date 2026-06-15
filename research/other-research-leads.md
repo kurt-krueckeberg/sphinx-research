@@ -16,6 +16,10 @@
 
 ## Records/Background to Research
 
+- CompGen Website: Any Krückeberg researchers listed? Any resources it
+  mentions
+- Blue book I have for doing German genealogy research.
+- Local Heimatverein
 - Germanic Genealogy Society Videos
 - ACSI videos
 - Confer with the `~/gen/m//research/pages` suggestions such as:
