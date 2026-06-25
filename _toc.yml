@@ -1,11 +1,16 @@
 format: jb-article
 root: index
 
-sections:
-  - file: research/bueckeburg-archive-organization
-  - file: research/general-research-plan
-  - file: research/hofnamen
-  - file: research/tracking-holdings-in-berenbusch
-  - file: research/are-there-einlieger-lists
-  - file: research/census-like-records-1728-1750
-  - file: research/other-research-leads
+parts:
+  - caption: Research
+    chapters:
+      - file: research/bueckeburg-archive-organization
+      - file: research/general-research-plan
+      - file: research/hofnamen
+      - file: research/tracking-holdings-in-berenbusch
+      - file: research/are-there-einlieger-lists
+      - file: research/census-like-records-1728-1750
+      - file: research/other-research-leads
+  - caption: Records Examined
+    chapters:
+      - file: record-log/record-log

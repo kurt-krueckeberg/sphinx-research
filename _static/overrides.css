@@ -1,17 +1,21 @@
-/* Original: Also nice 
-.doc-text {
-    font-family: var(--pst-font-family-base);
-    font-weight: 500;
-    line-height: 1.6;
-    color: #000;
-    background-color: #fdfdfd;  
-    border: 2px solid #222;
-    border-radius: 0.4rem;
-    padding: 1rem 1.25rem;
-    margin-bottom: 1.5rem;
-    text-indent: 0;
+/* remove gird/border lines from a table in a {div} doc-text block */
+.doc-text table,
+.doc-text th,
+.doc-text td {
+    border: none !important;
 }
-*/
+
+.doc-text table {
+    border-collapse: collapse;
+}
+
+.doc-text thead {
+    border-bottom: none !important;
+}
+
+.doc-text tr {
+    border: none !important;
+}
 .doc-text {
     font-family: var(--pst-font-family-base);
     font-weight: 500;
@@ -22,6 +26,10 @@
     border-radius: 0.4rem;
     padding: 1rem 1.25rem;
     margin-bottom: 1.5rem;
+}
+.doc-text table.no-borders tbody tr:nth-child(even),
+.doc-text table.no-borders tbody tr:nth-child(even) td {
+    background: transparent !important;
 }
 /* creates a shadow-obrder for images */
 img.image-override,
