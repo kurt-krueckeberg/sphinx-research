@@ -7,9 +7,8 @@
   - Repository
 * - Familienscheinen des Auswanderers Carl Friedrich Krückeberg 
   - Personal copy
-* - Immanuel Lutheran Church Register 1850-1905, Immanuel Lutheran Church,
+* - Immanuel Lutheran Church Register 1850-1905, 8538 North 500 East, Decatur IN 46733
   - Personal copy 
-    8538 North 500 East, Decatur IN 46733
 * - "Archion Protestant Kirchenbücher Portal", database, path: 
     Niedersachsen > Niedersächsisches Landesarchiv > Kirchenbücher
     der Evangelisch-Lutherischen Landeskirche Schaumburg-Lippe > Petzen >
