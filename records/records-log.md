@@ -14,14 +14,14 @@
     Niedersachsen > Niedersächsisches Landesarchiv > Kirchenbücher
     der Evangelisch-Lutherischen Landeskirche Schaumburg-Lippe > Petzen >
     Verzeichnis der Getauften und Konfirmierten, 1641-1784 
-  - <https://archion.de>  
+  - [Archion.de](https://archion.de)
 * - "Archion Protestant Kirchenbücher Portal", database with images, Niedersachsen > Niedersächsisches Landesarchiv > Kirchenbücher
     der Evangelisch-Lutherischen Landeskirche Schaumburg-Lippe > Petzen
     > Verzeichnis der Getrauten und Gestorbenen 1641-1784
-  - {ref}`Archion.de <https://archion.de>`
+  - [Archion.de](https://archion.de)
 * - "Archion Protestant Kirchenbücher Portal", database with images, path: Landesarchiv >
     Kirchenbücher der Evangelisch-Lutherischen Landeskirche Schaumburg-Lippe > Petzen > Verzeichnis der Getauften, Konfirmierten, Getrauten und Gestorbenen 1785-1827 
-  - <https://archion.de>  
+  - [Archion.de](https://archion.de)
 * - NLA archives
   - 
 ``` 
