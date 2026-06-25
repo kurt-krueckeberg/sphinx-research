@@ -1,6 +1,6 @@
 # Record Log
 
-```{list-table} Record log 
+```{list-table} Log of records examined
 :header-rows: 1
 
 * - Record Description
@@ -19,4 +19,3 @@ Schaumburg-Lippe > Petzen > Verzeichnis der Getrauten und Gestorbenen, 1641-1784
 Landesarchiv > Kirchenbücher der Evangelisch-Lutherischen Landeskirche Schaumburg-Lippe > Petzen > Verzeichnis der Getauften, Konfirmierten, Getrauten und Gestorbenen 1785-1827 
 * - NLA archives
 ``` 
-```
