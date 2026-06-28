@@ -16,4 +16,4 @@ parts:
       - file: records/records-log
   - caption: Contextual Sources
     chapters:
-      - file: contextual-sources/combined
+      - file: contextual-sources/funke-article/combined
