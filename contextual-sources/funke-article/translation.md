@@ -1,3 +1,5 @@
+# On the Conditions of Lodgers in the Principalities of Lippe-Detmold and Schaumburg-Lippe `*)`, by Pastor Georg Funke in Menslage bei Osnabrück.
+
 ## I. Lippe-Detmold
 
 According to the census of 1846 (*Zeitschrift für deutsche Statistik*,
