@@ -2,7 +2,7 @@
 
 The citation is at the {ref}`bottom <citation>`.
 
-## II. Lippe-Detmold
+## I. Lippe-Detmold
 
 Das Fürstentum Lippe-Detmold ernährt nach der Zählung von 1846 (Zeitschrift
 für deutsche Statistik 1847, S. 1059) auf 20,6 Quadratmeilen 106.046
@@ -11,21 +11,19 @@ Einwohner.
 > **Original footnote marked `*)`**:\
 > In der Vorrede zu meiner Schrift: „Über die gegenwärtige Lage der
 > Heuerleute im Fürstentum Osnabrück mit besonderer Beziehung auf die
-> Ursachen ihres Verfalls und mit Hinblick auf die Mittel zu ihrer Erhebung.
-> Bielefeld 1847.“ hatte ich zu Mitteilungen über die Lage der besitzlosen
-> ländlichen Bevölkerung im nordwestlichen Deutschland aufgefordert, da ich
-> die Verhältnisse dieser in großer Not lebenden Volksklasse umfassender
-> darzustellen gedenke. Von manchen Seiten sind mir bereits solche
-> Mitteilungen zu-
-> Funke: Über die Verhältnisse der Einlieger in Lippe-Detmold und
-> Schaumburg-Lippe. 1105
-> gegangen, wofür ich hier öffentlich meinen Dank ausspreche; doch fehlen sie
-> auch noch aus sehr vielen Gegenden. Ich wiederhole daher nochmals meine
-> früher ausgesprochene Bitte und bemerke zugleich, dass solche Mitteilungen,
-> für welche ich mich demnächst durch Übersendung der beabsichtigten Schrift
-> dankbar beweisen werde, auf buchhändlerischem Wege durch die Herren Hahn in
-> Hannover und Rackhorst in Osnabrück sicher an mich gelangen. —
-> Nachfolgender Artikel ist nach eingegangenen Privatmitteilungen bearbeitet.
+> Ursachen ihres Verfalls und mit Hinblick auf die Mittel zu ihrer
+> Erhebung. Bielefeld 1847.“ hatte ich zu Mitteilungen über die Lage der
+> besitzlosen ländlichen Bevölkerung im nordwestlichen Deutschland
+> aufgefordert, da ich die Verhältnisse dieser in großer Not lebenden
+> Volksklasse umfassender darzustellen gedenke. Von manchen Seiten sind mir
+> bereits solche Mitteilungen zugegangen, wofür ich hier öffentlich meinen
+> Dank ausspreche; doch fehlen sie auch noch aus sehr vielen Gegenden. Ich
+> wiederhole daher nochmals meine früher ausgesprochene Bitte und bemerke
+> zugleich, dass solche Mitteilungen, für welche ich mich demnächst durch
+> Übersendung der beabsichtigten Schrift dankbar beweisen werde, auf
+> buchhändlerischem Wege durch die Herren Hahn in Hannover und Rackhorst in
+> Osnabrück sicher an mich gelangen. — Nachfolgender Artikel ist nach
+> eingegangenen Privatmitteilungen bearbeitet.
 
 Im Jahre 1834 betrug die Volkszahl 98.428 (97.720), und 1840 war sie auf
 104.462 gestiegen, so dass man als mittlere Durchschnittszunahme der
