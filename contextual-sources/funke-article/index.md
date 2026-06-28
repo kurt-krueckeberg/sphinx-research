@@ -1,4 +1,4 @@
-# Article on Einliegers in the Principalities of Lippe-Detmold und Schaumburg-Lippe
+# Einliegers in the Principalities of Lippe-Detmold und Schaumburg-Lippe
 
 The article **Zeitschrift des Vereins für Deutsche Statistik**
 ("On the Circumstances of the Einlieger in the Principalities of Lippe-Detmold and Schaumburg-Lippe")
