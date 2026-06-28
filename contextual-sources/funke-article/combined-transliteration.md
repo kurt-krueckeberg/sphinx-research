@@ -1,4 +1,4 @@
-# Über die Verhältnisse der Einlieger in den Fürstentümern Lippe-Detmold und Schaumburg-Lippe`*)`, vom Pastor Georg Funke in Menslage bei Osnabrück.
+# Über die Verhältnisse der Einlieger in den Fürstentümern Lippe-Detmold und Schaumburg-Lippe`*)`
 
 The citation is at the {ref}`bottom <citation>`.
 
