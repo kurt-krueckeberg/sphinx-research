@@ -1,4 +1,4 @@
-# Explanation of the Term Einlieger
+# Article Explanating What an Einlieger Was
 
 The article **Zeitschrift des Vereins für Deutsche Statistik**
 ("On the Circumstances of the Einlieger in the Principalities of Lippe-Detmold and Schaumburg-Lippe")
