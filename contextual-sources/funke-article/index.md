@@ -5,7 +5,7 @@ Lippe-Detmold und Schaumburg-Lippe** Circumstances of the Einlieger in the
 Principalities of Lippe-Detmold and Schaumburg-Lippe") by Georg Funke
 appeared in the 1848 edition of the **Zeitschrift des Vereins für Deutsche
 Statistik** ("Journal of the German Statistical Society") on pages
-1104-1122.
+[1104-1122](https://www.digitale-sammlungen.de/view/bsb10709532?page=1142%2C1143).
   
 ## Citation
 
