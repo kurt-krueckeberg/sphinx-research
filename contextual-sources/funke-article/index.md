@@ -1,6 +1,6 @@
 # Article on: What is Einlieger? 
 
-The article **Über die Verhältnisse der Einlieger in den Fürstentümern
+**Über die Verhältnisse der Einlieger in den Fürstentümern
 Lippe-Detmold und Schaumburg-Lippe** Circumstances of the Einlieger in the
 Principalities of Lippe-Detmold and Schaumburg-Lippe") by Georg Funke
 appeared in the 1848 edition of the **Zeitschrift des Vereins für Deutsche
