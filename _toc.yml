@@ -14,3 +14,6 @@ parts:
   - caption: Records Examined
     chapters:
       - file: records/records-log
+  - caption: Contextual Sources
+    chapters:
+      - file: contextual-sources/combined
