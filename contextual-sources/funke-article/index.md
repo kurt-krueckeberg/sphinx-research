@@ -1,6 +1,12 @@
 # Article on Einliegers in the Principalities of Lippe-Detmold und Schaumburg-Lippe
 
-The citation for the artice is: 
+The article **On the Circumstances of the Einlieger in the Principalities of Lippe-Detmold and Schaumburg-Lippe**
+("Über die Verhältnisse der Einlieger in den Fürstentümern Lippe-Detmold und Schaumburg-Lippe") by Georg Funke
+appeared in the 1848 edition of the 
+  
+
+
+## Article ciation
 
 (citation)= 
 
