@@ -1044,7 +1044,7 @@ estate disappear.
 ## Glossary
 
 Amt
-: Administrative district.
+: Administrative district office.
 
 Amtsgemeindekasse
 : District communal fund.
