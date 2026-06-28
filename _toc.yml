@@ -19,3 +19,4 @@ parts:
       - file: contextual-sources/funke-article/index
         sections:
           - file: contextual-sources/funke-article/combined-transliteration
+          - file: contextual-sources/funke-article/translation
