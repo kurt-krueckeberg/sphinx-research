@@ -19,4 +19,6 @@ parts:
       - file: contextual-sources/funke-article/index
         sections:
           - file: contextual-sources/funke-article/combined-transliteration
+            title: Transliteration
           - file: contextual-sources/funke-article/translation
+            title: Translation
