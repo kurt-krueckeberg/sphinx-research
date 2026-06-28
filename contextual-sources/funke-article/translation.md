@@ -8,20 +8,21 @@ According to the census of 1846 (*Zeitschrift für deutsche Statistik*,
 1847, p. 1059), the Principality of Lippe-Detmold supports 106,046
 inhabitants on 20.6 square miles.
 
-> **Original footnote marked `*)`**:\ In the preface to my work, *On the
-> Present Condition of the Heuerleute in the Principality of Osnabrück,
-> with Special Reference to the Causes of Their Decline and with a View to
-> the Means of Their Improvement. Bielefeld, 1847*, I had called for
-> reports on the condition of the landless rural population in northwestern
-> Germany, since I intend to present a more comprehensive account of the
-> circumstances of this class of people, who live in great distress. From
-> several quarters I have already received such reports, for which I here
-> publicly express my thanks; yet they are still lacking from many regions.
-> I therefore repeat once more the request I made earlier, and add that
-> such reports, for which I shall in due course show my gratitude by
-> sending the projected work, will reach me safely through the book trade
-> via Messrs. Hahn in Hanover and Rackhorst in Osnabrück. — The following
-> article has been prepared on the basis of private reports received.
+> **Original footnote marked `*)`**:\
+> In the preface to my work, *On the Present Condition of the Heuerleute in
+> the Principality of Osnabrück, with Special Reference to the Causes of
+> Their Decline and with a View to the Means of Their Improvement.
+> Bielefeld, 1847*, I had called for reports on the condition of the
+> landless rural population in northwestern Germany, since I intend to
+> present a more comprehensive account of the circumstances of this class
+> of people, who live in great distress. From several quarters I have
+> already received such reports, for which I here publicly express my
+> thanks; yet they are still lacking from many regions.  I therefore repeat
+> once more the request I made earlier, and add that such reports, for
+> which I shall in due course show my gratitude by sending the projected
+> work, will reach me safely through the book trade via Messrs. Hahn in
+> Hanover and Rackhorst in Osnabrück. — The following article has been
+> prepared on the basis of private reports received.
 
 In 1834 the population numbered 98,428 (97,720), and by 1840 it had risen
 to 104,462, so that one may assume an average annual population increase of
@@ -285,28 +286,29 @@ Taler; they leave in April and return toward the end of June or in July.
 Their work, however, is more arduous and unhealthy, since it must be done
 in wet conditions.`*)`
 
-> **Original footnote marked `*)`**:\ The reviewer has often traversed on
-> foot the classic ground of the Principality of Lippe, where Hermann once
-> defeated Varus and where now, on the summit of the Teutoburg Forest
-> mountains, the unfortunately still unfinished monument to the German hero
-> rises. On one such occasion he once also encountered an Einlieger, who
-> told him that he had formerly gone to Friesland as a peat digger. He gave
-> the earnings as approximately 20 Taler; sometimes he had had to deduct
-> the travel costs from this, and sometimes he had had even more. This
-> worker may serve as an example of how little money is used to make the
-> journey from Lippe to Friesland. He namely reported that on the outward
-> journey, when he took some food from home with him, he had used his whole
-> Taler; on the return journey, when this food was lacking, he had not
-> always managed with that amount. Meanwhile, on the way they had usually
-> eaten only bread; only once, namely in Haselünne, where they always took
-> their lodging with a butcher, had they eaten a warm supper. The meal had
-> been so good that it need not have been better for a wedding; namely,
-> they had received soup with beef and then sauerkraut with bacon or ham.
-> Including the night's lodging on hay and the coffee enjoyed the next
-> morning, 7 Mgr. in all had been paid for this, which was admittedly not
-> too much, but the journey would have become too expensive for them if
-> they had wished to incur such an expense for every night's lodging. — One
-> sees what these workers deny themselves on the road.
+> **Original footnote marked `*)`**:\
+> The reviewer has often traversed on foot the classic ground of the
+> Principality of Lippe, where Hermann once defeated Varus and where now,
+> on the summit of the Teutoburg Forest mountains, the unfortunately still
+> unfinished monument to the German hero rises. On one such occasion he
+> once also encountered an Einlieger, who told him that he had formerly
+> gone to Friesland as a peat digger. He gave the earnings as approximately
+> 20 Taler; sometimes he had had to deduct the travel costs from this, and
+> sometimes he had had even more. This worker may serve as an example of
+> how little money is used to make the journey from Lippe to Friesland. He
+> namely reported that on the outward journey, when he took some food from
+> home with him, he had used his whole Taler; on the return journey, when
+> this food was lacking, he had not always managed with that amount.
+> Meanwhile, on the way they had usually eaten only bread; only once,
+> namely in Haselünne, where they always took their lodging with a butcher,
+> had they eaten a warm supper. The meal had been so good that it need not
+> have been better for a wedding; namely, they had received soup with beef
+> and then sauerkraut with bacon or ham.  Including the night's lodging on
+> hay and the coffee enjoyed the next morning, 7 Mgr. in all had been paid
+> for this, which was admittedly not too much, but the journey would have
+> become too expensive for them if they had wished to incur such an expense
+> for every night's lodging. — One sees what these workers deny themselves
+> on the road.
 
 Although foreign brickmaking work brings the Einlieger very significant
 earnings, it is said, as landowners claim, to have had little advantageous
@@ -757,7 +759,7 @@ consideration`*)`; also, of the seven Contributions-Simplen, each amounting
 to 5,500 Taler, two are assigned to the district communal funds for
 communal road construction and poor relief, whereby a more active life has
 been called forth in the communities and opportunity for earnings has been
-given**); only the provision that the Einliegergeld together with the one
+given`**)`; only the provision that the Einliegergeld together with the one
 Contributions-Simplum is likewise assigned to the district communal fund
 and used for public relief seems to be thoroughly unpopular precisely among
 those Einlieger who still maintain themselves by diligence, order, and
@@ -770,12 +772,13 @@ admitted that especially in populous places a thoroughly wrong spirit
 prevails among them, so that very many already insist that they must be
 maintained.
 
-> **Original footnote marked `*)`**:\ `*)` The indirect taxes, however,
-> have also affected the Einlieger through the accession to the Zollverein.
+> **Original footnote marked `*)`**:\
+> `*)` The indirect taxes, however, have also affected the Einlieger
+> through the accession to the Zollverein.
 
-> **Original footnote marked `**)`**:\ `**)` Compare Antze on the
-> constitution of the Principality of Lippe in Bülau’s *Jahrbücher für
-> Geschichte und Politik*. 1844. Issue VII.
+> **Original footnote marked `**)`**:\
+> `**)` Compare Antze on the constitution of the Principality of Lippe in
+> Bülau’s *Jahrbücher für Geschichte und Politik*. 1844. Issue VII.
 
 If the Einlieger were appropriately incorporated into the village communal
 association and were also represented according to their circumstances in
@@ -844,10 +847,11 @@ believe we may put forward the claim that this soil is lacking in the
 Principality of Lippe and that little opportunity is offered to gain it
 through internal colonization, as is still possible in other countries.
 
-> **Original footnote marked `*)`**:\ `*)` Several landowners are said to
-> have emigrated because the consistory, instead of the Heidelberg
-> Catechism, forced upon the congregations the watery textbook of an
-> earlier general superintendent. Compare *Janus* of 1847, vol. I, p. 757.
+> **Original footnote marked `*)`**:\
+> `*)` Several landowners are said to have emigrated because the
+> consistory, instead of the Heidelberg Catechism, forced upon the
+> congregations the watery textbook of an earlier general superintendent.
+> Compare *Janus* of 1847, vol. I, p. 757.
 
 ## II. Schaumburg-Lippe
 
