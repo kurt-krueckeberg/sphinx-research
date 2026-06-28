@@ -1,12 +1,11 @@
 # Article on Einliegers in the Principalities of Lippe-Detmold und Schaumburg-Lippe
 
-The article **On the Circumstances of the Einlieger in the Principalities of Lippe-Detmold and Schaumburg-Lippe**
-("Über die Verhältnisse der Einlieger in den Fürstentümern Lippe-Detmold und Schaumburg-Lippe") by Georg Funke
-appeared in the 1848 edition of the 
+The article **Zeitschrift des Vereins für Deutsche Statistik**
+("On the Circumstances of the Einlieger in the Principalities of Lippe-Detmold and Schaumburg-Lippe")
+by Georg Funke appeared in the 1848 edition of the **Zeitschrift des Vereins für Deutsche Statistik** 
+("Journal of the German Statistical Society") on pages 1104-1122.
   
-
-
-## Article ciation
+## Citation
 
 (citation)= 
 
