@@ -17,4 +17,5 @@ parts:
   - caption: Contextual Sources
     chapters:
       - file: contextual-sources/funke-article/index
-        sections: contextual-sources/funke-article/combined-transliteration
+        sections:
+          - file: contextual-sources/funke-article/combined-transliteration
