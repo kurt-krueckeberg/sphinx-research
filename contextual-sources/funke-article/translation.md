@@ -1039,6 +1039,134 @@ to preserve this estate in its characteristically defined nature and to
 protect it from a general leveling, with which the custom and honor of the
 estate disappear.
 
+## Glossary
+
+Amt
+: Administrative district.
+
+Amtsgemeindekasse
+: District communal fund.
+
+Amtsgemeindekassen
+: Plural of Amtsgemeindekasse.
+
+Angstarbeiter
+: “Anxiety-worker”; a term used for proletarians whose existence is marked by economic insecurity.
+
+Bauerntracht
+: Peasant or rural traditional costume.
+
+Bauerschaft
+: Rural township or farming district.
+
+Bauerschaften
+: Plural of Bauerschaft.
+
+Botenmeister
+: Official labor agent or messenger-master appointed to arrange and supervise labor contracts.
+
+Brinksitzer
+: Holder of a small rural holding, often on the village edge or common margin; not necessarily a farm.
+
+Contributions-Simplen
+: Plural of Contributions-Simplum.
+
+Contributions-Simplum
+: Basic contribution unit.
+
+Dänemarksgänger
+: Denmark-goer; seasonal migrant laborer, so called because such workers originally went first to Holstein and Schleswig.
+
+Dienstbauern
+: Service peasants or peasants owing labor services.
+
+Diensttage
+: Service days; days on which labor service was performed.
+
+Einlieger
+: Landless rural lodger or tenant living in another household or on another holding.
+
+Einliegergeld
+: Tax or assessment levied on Einlieger.
+
+Friesländer
+: Friesland-goer; seasonal migrant laborer associated with work in Friesland, even when the actual destination differed.
+
+Gemeindegesetz
+: Municipal law.
+
+Gemeinheit
+: Common land or village common.
+
+Gemeinheiten
+: Plural of Gemeinheit.
+
+Handdienste
+: Manual service obligations.
+
+Hollandsgänger
+: Holland-goer; seasonal migrant laborer, originally one going to Holland for work.
+
+Hollandsgehen
+: Seasonal migration to Holland or elsewhere for work.
+
+Hoppenplöcker
+: Vernacular term for a small owner or small rural settler in Lippe.
+
+Hude
+: Common grazing land or grazing right.
+
+Kolon
+: Holder of a Kolonat or registered rural holding; not necessarily a farmer in the modern sense.
+
+Kolonat
+: Registered rural holding or tenement; not necessarily a farm.
+
+Kolonate
+: Plural of Kolonat.
+
+Kolonen
+: Plural of Kolon.
+
+Landfolgen
+: Compulsory territorial labor obligations.
+
+Leibzuchtshaus
+: Retirement house reserved for the older generation on a holding.
+
+Leibzuchtshäuser
+: Plural of Leibzuchtshaus.
+
+Mark
+: Common land or communal field.
+
+Marken
+: Plural of Mark.
+
+Meier
+: Holder/operator of a Meier holding; in Lippe, the general term used here for a substantial rural holding-holder.
+
+Meierfrauen
+: Wives of Meier holding-holders.
+
+Neubauer
+: New settler.
+
+Neuwohner
+: New inhabitant.
+
+Pflugmann
+: The person who plows for another; in this context, the Kolon who cultivates the Einlieger’s rented land.
+
+Scheffelsaat
+: A seed-measure of land, roughly the area sown with one Scheffel of seed.
+
+Tracht
+: Traditional dress or costume.
+
+Ziegelbote
+: Brickworkers’ agent.
+
 ## Citation
 
 (citation)= 
