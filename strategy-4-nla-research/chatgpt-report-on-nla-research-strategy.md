@@ -1,4 +1,4 @@
-# Bückeburg Landesarchiv and Arcinsys for Genealogical Research
+#  Genealogical Research using Bückeburg Landesarchiv and Arcinsys
 
 ## Executive summary
 
