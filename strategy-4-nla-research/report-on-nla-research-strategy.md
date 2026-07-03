@@ -1,14 +1,31 @@
 # Bückeburg Landesarchiv and Arcinsys for Genealogical Research
 
-## Revised method: finding useful records when the surname is not in the Arcinsys title
+## Finding Useful Records When the Surname is not in the Arcinsys Title
 
-This guide is written for genealogy research in the area west of Bückeburg, especially for families in the eighteenth and nineteenth centuries whose records may sit in the holdings of the Niedersächsisches Landesarchiv, Abteilung Bückeburg. It deliberately does **not** cover scheduling a visit or contacting an archivist. Its purpose is to explain how Arcinsys is organized, how to read its German archival language, and how to pursue an efficient strategy when the key problem is not “how do I search my surname?” but rather:
+This guide is written for genealogy research in the area west of Bückeburg,
+especially for families in the eighteenth and nineteenth centuries whose
+records may sit in the holdings of the Niedersächsisches Landesarchiv,
+Abteilung Bückeburg. It deliberately does **not** cover scheduling a visit
+or contacting an archivist. Its purpose is to explain how Arcinsys is
+organized, how to read its German archival language, and how to pursue an
+efficient strategy when the key problem is not “how do I search my
+surname?” but rather:
 
-> How do I find records that may mention my ancestors inside the file even though their surname is not in the Arcinsys title or header?
+> How do I find records that may mention my ancestors inside the file even
+> though their surname is not in the Arcinsys title or header?
 
-The earlier version of this guide overstated the value of a formula such as “surname + village + date range + record-function word.” That is useful only for the first pass through Arcinsys metadata. Once all surname-title hits have already been found, that method is largely exhausted. Arcinsys is not a full-text search engine for handwritten archival documents. It usually searches descriptions, titles, index fields, signatures, dates, and other catalog metadata, not the full contents of every page in every file.
+The earlier version of this guide overstated the value of a formula such as
+“surname + village + date range + record-function word.” That is useful
+only for the first pass through Arcinsys metadata. Once all surname-title
+hits have already been found, that method is largely exhausted. Arcinsys is
+not a full-text search engine for handwritten archival documents. It
+usually searches descriptions, titles, index fields, signatures, dates, and
+other catalog metadata, not the full contents of every page in every file.
 
-The better approach is **provenance-and-record-function triage**. The goal is to identify files where your ancestors would likely be mentioned because of the administrative, legal, fiscal, or property function of the record, even if they are not named in the catalog title.
+The better approach is **provenance-and-record-function triage**. The goal
+is to identify files where your ancestors would likely be mentioned because
+of the administrative, legal, fiscal, or property function of the record,
+even if they are not named in the catalog title.
 
 ## Executive summary
 
@@ -39,7 +56,12 @@ The practical research rule is:
 
 ## What Arcinsys is — and what it is not
 
-Arcinsys is the archival information system used by the Niedersächsisches Landesarchiv and other archives in Niedersachsen and Bremen. The NLA describes Arcinsys as covering the archival workflow from acquisition through description, storage, and access. It provides information on millions of archival units and includes many digitized items, but it is not a full-text database of every page in every file.
+Arcinsys is the archival information system used by the Niedersächsisches
+Landesarchiv and other archives in Niedersachsen and Bremen. The NLA
+describes Arcinsys as covering the archival workflow from acquisition
+through description, storage, and access. It provides information on
+millions of archival units and includes many digitized items, but it is not
+a full-text database of every page in every file.
 
 That distinction matters. Arcinsys can usually help you find:
 
@@ -52,9 +74,14 @@ That distinction matters. Arcinsys can usually help you find:
 - sometimes indexed persons and places;
 - sometimes digital images or representations.
 
-Arcinsys usually cannot tell you every personal name written somewhere inside an eighteenth- or nineteenth-century handwritten file. A surname may appear on page 7 of a Kaufbrief, in a creditor list, in a margin note, in a receipt, or on a signature page without appearing in the Arcinsys title at all.
+Arcinsys usually cannot tell you every personal name written somewhere
+inside an eighteenth- or nineteenth-century handwritten file. A surname may
+appear on page 7 of a Kaufbrief, in a creditor list, in a margin note, in a
+receipt, or on a signature page without appearing in the Arcinsys title at
+all.
 
-So the catalog is best used as a **map of record-producing offices and record functions**, not as a complete name index.
+So the catalog is best used as a **map of record-producing offices and
+record functions**, not as a complete name index.
 
 ## The archival hierarchy in plain English
 
@@ -99,13 +126,16 @@ Use S 8 to establish:
 - possible Hofname or holding-name clues;
 - a cluster of relatives and associated families.
 
-But do not stop with church books. For emigrants in 1849–1850, the decisive evidence may be in property, emigration, creditor, and administrative files.
+But do not stop with church books. For emigrants in 1849–1850, the decisive
+evidence may be in property, emigration, creditor, and administrative
+files.
 
 ### L 101a — Amt Bückeburg, with Amt Arensburg
 
 **NLA BU L 101a Amt Bückeburg (mit Amt Arensburg)** is central for Schaumburg-Lippe villages in the Amt Bückeburg sphere. Arcinsys describes it as lower-authority material covering general administration, agriculture and forestry oversight, services and dues, register keeping, the lordly domain, and lower jurisdiction.
 
-That is exactly the kind of fonds that can produce hidden mentions. A person may appear in:
+That is exactly the kind of fonds that can produce hidden mentions. A
+person may appear in:
 
 - a village list;
 - a dues or service register;
