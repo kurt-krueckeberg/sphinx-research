@@ -377,7 +377,7 @@ following lines first:
 
 ### Suggested mermaid flowchart
 
-```mermaid
+```{mermaid}
 flowchart TD
     A[Start with known facts<br/>surname, approx. year, west of Bückeburg, emigration 1849-1850] --> B[Identify likely jurisdiction<br/>Schaumburg-Lippe or Hessian Schaumburg]
     B --> C[Identify likely parish or neighboring parishes]
