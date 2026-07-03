@@ -9,6 +9,7 @@ parts:
       - file: research/hofnamen
       - file: research/tracking-holdings-in-berenbusch
       - file: research/records-with-possible-info-on-holders
+      - file: research/einlieger-lead-sheet
       - file: research/are-there-einlieger-lists
       - file: research/census-like-records-1728-1750
       - file: research/other-research-leads
