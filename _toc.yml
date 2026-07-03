@@ -21,4 +21,6 @@ parts:
           - file: contextual-sources/funke-article/combined-transliteration
             title: Transliteration
           - file: contextual-sources/funke-article/translation
-            title: Translation
+            title: Translation  
+  - chapters:
+      - file: strategy-4-nla-research/chatgpt-report-on-nla-research-strategy
