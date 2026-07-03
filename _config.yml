@@ -39,7 +39,7 @@ sphinx:
     - sphinx_external_toc
     - sphinx.ext.intersphinx
     - sphinx_design
-    - sphinxcontrib-mermaid
+    - sphinxcontrib.mermaid
 
   config:
     external_toc_exclude_missing: true
