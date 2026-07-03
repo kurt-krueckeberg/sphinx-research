@@ -1,4 +1,4 @@
-# Rural Amt Bückeburg Einlieger / Häuslinge leads, 1725–1775
+# Berenbusch / Petzen parish Einlieger and non-holder research leads, 1725–1775
 
 ## Scope
 
