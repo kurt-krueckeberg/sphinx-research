@@ -12,6 +12,7 @@ parts:
       - file: research/einlieger-lead-sheet
       - file: research/are-there-einlieger-lists
       - file: research/census-like-records-1728-1750
+      - file: research/arcinsys-bookmarks
       - file: research/other-research-leads
   - caption: Records Examined
     chapters:

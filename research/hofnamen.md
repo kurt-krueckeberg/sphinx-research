@@ -61,7 +61,9 @@ family name often bent to the farm name.
 
 ### A Quick Tip for Regional Research
 
-If your research takes you into neighboring Westphalian or Lower Saxon records, keep an eye out for these specific dialect variations of "genannt" that clerks used to link a birth name to a farm name:
+If your research takes you into neighboring Westphalian or Lower Saxon records,
+keep an eye out for these specific dialect variations of "genannt" that clerks
+used to link a birth name to a farm name:
 
 * **coloni** (Latin for tenant farmer, often followed by the estate name)
 * **dictus** / **nominatus** (Latin for "called")

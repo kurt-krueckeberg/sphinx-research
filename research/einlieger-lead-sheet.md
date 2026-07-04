@@ -1,4 +1,4 @@
-# Berenbusch / Petzen parish Einlieger and non-holder research leads, 1725–1775
+# Berenbusch and Petzen Parish Einlieger and Non-Holderw Research Leads, 1725–1775
 
 ## Scope
 
