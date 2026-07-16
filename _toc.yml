@@ -29,3 +29,21 @@ parts:
   - caption: NLA Research Strategy
     chapters:
       - file: strategy-4-nla-research/report-on-nla-research-strategy          
+
+  - caption: Arcinsys Research Guide
+    chapters: arcinsys/ch1.md
+    chapters: arcinsys/ch2.md
+    chapters: arcinsys/ch3.md
+    chapters: arcinsys/ch4.md
+    chapters: arcinsys/ch5.md
+    chapters: arcinsys/ch6.md
+    chapters: arcinsys/ch7.md
+    chapters: arcinsys/ch8.md
+    chapters: arcinsys/ch9.md
+    chapters: arcinsys/ch10.md
+    chapters: arcinsys/ch11.md
+    chapters: arcinsys/ch12.md
+    chapters: arcinsys/ch13.md
+    chapters: arcinsys/ch14.md
+    chapters: arcinsys/ch15.md
+    chapters: arcinsys/ch16.md
