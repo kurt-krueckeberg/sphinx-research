@@ -31,19 +31,20 @@ parts:
       - file: strategy-4-nla-research/report-on-nla-research-strategy          
 
   - caption: Arcinsys Research Guide
-    chapters: arcinsys/ch1.md
-    chapters: arcinsys/ch2.md
-    chapters: arcinsys/ch3.md
-    chapters: arcinsys/ch4.md
-    chapters: arcinsys/ch5.md
-    chapters: arcinsys/ch6.md
-    chapters: arcinsys/ch7.md
-    chapters: arcinsys/ch8.md
-    chapters: arcinsys/ch9.md
-    chapters: arcinsys/ch10.md
-    chapters: arcinsys/ch11.md
-    chapters: arcinsys/ch12.md
-    chapters: arcinsys/ch13.md
-    chapters: arcinsys/ch14.md
-    chapters: arcinsys/ch15.md
-    chapters: arcinsys/ch16.md
+    chapters:
+      - file:  arcinsys/ch1.md
+      - file: arcinsys/ch2.md
+      - file: arcinsys/ch3.md
+      - file: arcinsys/ch4.md
+      - file: arcinsys/ch5.md
+      - file: arcinsys/ch6.md
+      - file: arcinsys/ch7.md
+      - file: arcinsys/ch8.md
+      - file: arcinsys/ch9.md
+      - file: arcinsys/ch10.md
+      - file: arcinsys/ch11.md
+      - file: arcinsys/ch12.md
+      - file: arcinsys/ch13.md
+      - file: arcinsys/ch14.md
+      - file: arcinsys/ch15.md
+      - file: arcinsys/ch16.md
