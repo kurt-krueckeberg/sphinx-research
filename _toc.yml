@@ -32,19 +32,20 @@ parts:
 
   - caption: Arcinsys Research Guide
     chapters:
-      - file:  arcinsys/ch1.md
-      - file: arcinsys/ch2.md
-      - file: arcinsys/ch3.md
-      - file: arcinsys/ch4.md
-      - file: arcinsys/ch5.md
-      - file: arcinsys/ch6.md
-      - file: arcinsys/ch7.md
-      - file: arcinsys/ch8.md
-      - file: arcinsys/ch9.md
-      - file: arcinsys/ch10.md
-      - file: arcinsys/ch11.md
-      - file: arcinsys/ch12.md
-      - file: arcinsys/ch13.md
-      - file: arcinsys/ch14.md
-      - file: arcinsys/ch15.md
-      - file: arcinsys/ch16.md
+      - file: arcinsys/ch1
+      - file: arcinsys/ch2
+      - file: arcinsys/ch3
+      - file: arcinsys/ch4
+      - file: arcinsys/ch5
+      - file: arcinsys/ch6
+      - file: arcinsys/ch7
+      - file: arcinsys/ch8
+      - file: arcinsys/ch9
+      - file: arcinsys/ch10
+      - file: arcinsys/ch11
+      - file: arcinsys/ch12
+      - file: arcinsys/ch13
+      - file: arcinsys/ch14
+      - file: arcinsys/ch15
+      - file: arcinsys/ch16
+      - file: arcinsys/ch17
