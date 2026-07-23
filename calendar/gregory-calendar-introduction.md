@@ -1,4 +1,4 @@
-# Introducation of Gregorian Calendar in Petzen Church Registers
+# Switch to Gregorian Calendar in 1700
 
 Schaumburg-Lippe and its Lutheran state church did not adopt the Gregorian
 calendar that we use until the year 1700, when February 18 was followed by
