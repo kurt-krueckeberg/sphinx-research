@@ -3,6 +3,7 @@ root: index
 
 parts:
   - caption: Research Educational Lectures
+    chapters:
       - file: education/finding-more-info
   - caption: Research
     chapters:
@@ -17,6 +18,7 @@ parts:
       - file: research/arcinsys-bookmarks
       - file: research/other-research-leads
   - caption: 1700 Calendar Change
+    chapters:
       - file: calendar/gregory-calendar-introduction
   - caption: Records Examined
     chapters:
