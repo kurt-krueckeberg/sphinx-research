@@ -1,6 +1,6 @@
-# How to Find More Information Other Than German Church Records
+# Video Lectures
 
-## Video Lectures
+Video lectures on how to find more information other than church records:
 
 - [The German Records You May Be Missing](https://www.familysearch.org/rootstech/session/the-german-records-you-may-be-missing?cid=rt_copy)
 - [German Census Records 1816-1916 ](https://www.familysearch.org/en/help/helpcenter/lessons/german-census-records-1816-1916)
@@ -16,3 +16,4 @@
 
 ## FamilyTreeWebinars
 
+- **TODO**
