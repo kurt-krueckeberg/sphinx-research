@@ -12,7 +12,7 @@ Video lectures on how to find more information other than church records:
 - [Unlocking German Ancestry: Expert Strategies for Finding and Interpreting German Records](https://www.familysearch.org/rootstech/session/unlocking-german-ancestry-expert-strategies-for-finding-and-interpreting-german-records?cid=rt_copy)
 - [German Gazetteers: Locating Historical German Place Names](https://www.familysearch.org/en/rootstech/session/german-gazetteers-locating-historical-german-place-names)
 - [Das Landesarchiv NRW, Abteilung Rheinland](https://www.familysearch.org/rootstech/session/das-landesarchiv-nrw-abteilung-rheinland?cid=rt_copy)
-- [Das Kalenderspiel: Stimmen die Daten wirklich mit dem gregorianischen Kalender überein?)[https://www.familysearch.org/rootstech/session/das-kalenderspiel-stimmen-die-daten-wirklich-mit-dem-gregorianischen-kalender-uberein?cid=rt_copy]
+- [Das Kalenderspiel: Stimmen die Daten wirklich mit dem gregorianischen Kalender überein](https://www.familysearch.org/rootstech/session/das-kalenderspiel-stimmen-die-daten-wirklich-mit-dem-gregorianischen-kalender-uberein?cid=rt_copy]
 
 ## FamilyTreeWebinars
 
