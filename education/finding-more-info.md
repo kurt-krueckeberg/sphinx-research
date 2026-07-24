@@ -1,5 +1,7 @@
 # Video Lectures
 
+## From FamilySearch
+
 Video lectures on how to find more information other than church records:
 
 - [The German Records You May Be Missing](https://www.familysearch.org/rootstech/session/the-german-records-you-may-be-missing?cid=rt_copy)
@@ -17,3 +19,5 @@ Video lectures on how to find more information other than church records:
 ## FamilyTreeWebinars
 
 - **TODO**
+
+## Germainc Genealogy Society
