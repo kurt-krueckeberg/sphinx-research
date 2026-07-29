@@ -18,17 +18,16 @@ parts:
       - file: research/arcinsys-bookmarks
       - file: research/other-research-leads
 
+  - caption: German Names   
+    chapters:
+      - file: names/Namenkunde
+
   - caption: Hofname
     chapters:
       - file: names/hofname-explained
       - file: names/hofname-in-church-registers
       - file: names/suranems-nonimmutable.md
       - file: names/hofname-vs-surname.md
-
-  - caption:    
-    chapters:
-      - file: names/Namenkunde
-
   - caption: 1700 Calendar Change
     chapters:
       - file: calendar/gregory-calendar-introduction
