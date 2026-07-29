@@ -20,10 +20,14 @@ parts:
 
   - caption: Hofname
     chapters:
-      - file: hofname/hofname-explained
-      - file: hofname/hofname-in-church-registers
-      - file: hofname/suranems-nonimmutable.md
-      - file: hofname/hofname-vs-surname.md
+      - file: names/hofname-explained
+      - file: names/hofname-in-church-registers
+      - file: names/suranems-nonimmutable.md
+      - file: names/hofname-vs-surname.md
+
+  - caption:    
+    chapters:
+      - file: names/Namenkunde
 
   - caption: 1700 Calendar Change
     chapters:
