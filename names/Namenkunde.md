@@ -1,4 +1,4 @@
-# Onomastics: *Rufnamen* and *Familiennamen*
+# German Onomastics: *Rufnamen* and *Familiennamen*
 
 *English translation of pages 344–350 from the uploaded German scan*
 
