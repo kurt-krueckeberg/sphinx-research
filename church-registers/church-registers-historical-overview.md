@@ -1,9 +1,9 @@
 # Church Registers: Historical Overview and Notes on Their Use
 
-This is an English translation of the first section of the chapter
-"Kirchenbücher" from Taschenbbuch für Familiengescihtsforschung ("Handbook
-for Genealogical Research"), whose subitle is "A. Historischer Abriss und
-Benutzungshinweis (Historical Overview and Notes on Their Use)".
+This is an English translation of the section titled "A. Historischer Abriss und
+Benutzungshinweis (Historical Overview and Notes on Their Use)" found in the chapter
+**Kirchenbücher** ("Church registers") from the book Taschenbbuch für Familiengescihtsforschung
+("Handbook for Genealogical Research").
 
 ## Citation
 
