@@ -19,11 +19,11 @@ parts:
       - file: research/other-research-leads
 
   - caption: Hofname
-        chapters:
-        - file: hofname/hofname-explained
-        - file: hofname/hofname-in-church-registers
-        - file: hofname/suranems-nonimmutable.md
-        - file: hofname/hofname-vs-surname.md
+    chapters:
+      - file: hofname/hofname-explained
+      - file: hofname/hofname-in-church-registers
+      - file: hofname/suranems-nonimmutable.md
+      - file: hofname/hofname-vs-surname.md
 
   - caption: 1700 Calendar Change
     chapters:

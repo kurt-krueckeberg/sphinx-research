@@ -78,7 +78,7 @@ genannt is needed, but the contrast makes the Hofname visible.
 
 Here is an actual example from the Kleinenbremen parish[^3].
 
-```{figure} ../kleinenbremen/images/kleinenbremen-11-aug-1778.jpg
+```{figure} images/kleinenbremen-11-aug-1778.jpg
 :class: image-override
 ```
 
