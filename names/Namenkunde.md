@@ -1,7 +1,5 @@
 # German Onomastics: *Rufnamen* and *Familiennamen*
 
-*English translation of pages 344–350 from the uploaded German scan*
-
 **Translator’s note:** The German terms *Rufname*, *Familienname*,
 *Beiname*, and *Übername* are retained throughout the translation. At
 their first occurrence, they are followed by an English explanation. In
@@ -13,8 +11,6 @@ distinguish a person and may indicate origin, residence, occupation,
 parentage, or another association. *Übername* (descriptive identifying
 name, nickname, or epithet) is a more specific type of *Beiname* based
 on a personal characteristic, appearance, conduct, or reputation.
-
-# Page 344
 
 ## Onomastics
 
@@ -84,10 +80,6 @@ and period. For the genealogist it is therefore especially valuable to
 trace the history of individual *Rufnamen* and to investigate the
 reasons for their appearance, decline, or complete absence at particular
 times and in particular regions.
-
-# Page 345
-
-## *Rufnamen* (continued)
 
 In their struggle against the cult of the saints, Protestants replaced
 saints’ names with Old Testament names; Calvinists even permitted only
@@ -159,10 +151,6 @@ to the rise of double *Rufnamen*: a child might be given, in addition to
 his or her own name, the name of the father or mother, a godparent, or a
 particular saint.
 
-# Page 346
-
-## *Rufnamen* (conclusion)
-
 German *Rufnamen* were therefore chosen anew in every generation. In
 addition to fashion and regional criteria, sociological and
 psychological considerations played a significant role in the choice of
@@ -227,10 +215,6 @@ pupils’ *Rufnamen* into the eighteenth century, and the Prague
 matriculation book even favored the *Rufname* until 1776. Dürer’s
 monogram, with its large D extending over the A, shows that his
 *Rufname* was more important to him than his *Familienname*.
-
-# Page 347
-
-## *Familiennamen* (continued)
 
 Princes and high ecclesiastical dignitaries, with the exception of
 cardinals, still use only their *Rufnamen* today—for example, Prince
@@ -306,10 +290,6 @@ citizens with a fully written von were customarily so designated,
 whereas the abbreviation v. was reserved for old nobility certified by
 the heraldic office. Bourgeois families often changed their names
 together with the houses in which they lived.
-
-# Page 348
-
-## *Familiennamen* (continued)
 
 Johannes Gutenberg, for example, was actually named Henne Gensfleisch.
 He bore the name familiar to us from his mother’s house in Mainz.
@@ -388,10 +368,6 @@ Paracelsus ab Hohenheim. University and school matriculation records
 often entered the student’s or pupil’s place of origin as the third
 element of such names, as in Engelbert Wusterwitz van Brandenburg.
 
-# Page 349
-
-## *Familiennamen* (conclusion)
-
 Classicizing forms produced by attaching an ending and using foreign
 stress are often found, sometimes alternating with a translated name.
 The Brandenburg pastor and historiographer Andreas Engel used both his
@@ -457,10 +433,6 @@ relationship or formal adoption.
 
 When no other suitable sources are available, researchers often attempt
 to construct a family relationship from recurring “leading names.”
-
-# Page 350
-
-## Onomastics and Family-History Research (conclusion)
 
 Such a relationship exists, however, in only a very small number of
 cases. The term leading name is used when a grandfather’s *Rufname* is
