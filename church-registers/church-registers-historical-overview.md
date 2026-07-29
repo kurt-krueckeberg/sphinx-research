@@ -1,14 +1,8 @@
-# Church Registers
+# Church Registers: Historical Overview and Notes on Their Use
 
 ## A. Historical Overview and Notes on Their Use
 
 **By Volkmar Drese**
-
-## B. Introductory Literature and Inventories of Church Registers
-
-**By Eckart Henning and Christel Wegeleben**
-
-# A. Historical Overview and Notes on Their Use
 
 Church registers—also called *Matriken*, *matricula*, or *catalogus* in Catholic regions, particularly in southern Germany and Austria—record the ecclesiastical acts performed by the locally responsible pastor, especially baptisms, marriages, and burials. In general, for the period before the introduction of civil registration, they constitute the official registers of births and deaths as well as marriages.
 
@@ -126,25 +120,57 @@ When making written inquiries, it is advisable to limit in advance the amount th
 
 > I ask that the cost initially not exceed DM 10—[or DM 20].
 
-For informal, uncertified information from church registers—when legally valid certificates are not required, for example for pedigree charts or ancestor lists—no document fees are payable. Only the customary search fees must be paid.
+For informal, uncertified information from church registers—when legally
+valid certificates are not required, for example for pedigree charts or
+ancestor lists—no document fees are payable. Only the customary search fees
+must be paid.
 
-The value or lack of value of information supplied by a parish office depends not only upon the personal conscientiousness of the person providing it, but to a considerable extent upon that person’s greater or lesser expertise in handling handwritten texts from the sixteenth through eighteenth centuries.
+The value or lack of value of information supplied by a parish office
+depends not only upon the personal conscientiousness of the person
+providing it, but to a considerable extent upon that person’s greater or
+lesser expertise in handling handwritten texts from the sixteenth through
+eighteenth centuries.
 
-Conditions in this respect have improved considerably as a result of the increasing centralization of church archives. On the other hand, it must be observed that the ability—and also the willingness—of local pastors to decipher handwritten texts of the sixteenth through eighteenth centuries has shown a marked decline in recent years.
+Conditions in this respect have improved considerably as a result of the
+increasing centralization of church archives. On the other hand, it must be
+observed that the ability—and also the willingness—of local pastors to
+decipher handwritten texts of the sixteenth through eighteenth centuries
+has shown a marked decline in recent years.
 
-The person responsible for a church register is probably liable under §73 of the Civil Status Act of February 6, 1875, for providing incorrect information—that is, for violating an official public duty.
+The person responsible for a church register is probably liable under §73
+of the Civil Status Act of February 6, 1875, for providing incorrect
+information—that is, for violating an official public duty.
 
-Such liability apparently does not apply when a clergyman, out of special interest, voluntary helpfulness, or similar motives, has conducted extensive research based on the church registers and provided information in the form of a complete pedigree chart or similar compilation.
+Such liability apparently does not apply when a clergyman, out of special
+interest, voluntary helpfulness, or similar motives, has conducted
+extensive research based on the church registers and provided information
+in the form of a complete pedigree chart or similar compilation.
 
-The right to receive information from church registers, or to inspect them, is no longer disputed today. It must nevertheless be expressly pointed out that church-register custodians—pastors and their staff, church-register offices, and territorial church archival administrations—are not required to conduct extensive genealogical research.
+The right to receive information from church registers, or to inspect them,
+is no longer disputed today. It must nevertheless be expressly pointed out
+that church-register custodians—pastors and their staff, church-register
+offices, and territorial church archival administrations—are not required
+to conduct extensive genealogical research.
 
-For users’ personal inspection of church registers from the more recent past, the standard closure periods applying to archival material containing personal information apply, generally fifty years.
+For users’ personal inspection of church registers from the more recent
+past, the standard closure periods applying to archival material containing
+personal information apply, generally fifty years.
 
-In addition to the church registers themselves, parish offices not infrequently possess other records that may be considered ecclesiastical sources for genealogical research.
+In addition to the church registers themselves, parish offices not
+infrequently possess other records that may be considered ecclesiastical
+sources for genealogical research.
 
-These include family or soul registers compiled from church registers, burial registers and so-called bell registers that served as replacements or predecessors of death registers, recording the ringing of church bells for especially solemn burials or weddings—for example, in Greifswald, Nuremberg, and Uelzen.
+These include family or soul registers compiled from church registers,
+burial registers and so-called bell registers that served as replacements
+or predecessors of death registers, recording the ringing of church bells
+for especially solemn burials or weddings—for example, in Greifswald,
+Nuremberg, and Uelzen.
 
-There are also lists of persons formerly confirmed—who in Reformed regions might be as old as twenty—lists of communicants, evening-service attendees, sometimes arranged in complete family groups, memorial services for the dead, and lists of converts—that is, persons who transferred to another religious community.
+There are also lists of persons formerly confirmed—who in Reformed regions
+might be as old as twenty—lists of communicants, evening-service attendees,
+sometimes arranged in complete family groups, memorial services for the
+dead, and lists of converts—that is, persons who transferred to another
+religious community.
 
 Additional supplements to church registers include:
 
@@ -156,30 +182,3 @@ Additional supplements to church registers include:
 * records and accounts concerning foundations and stipends under ecclesiastical supervision.
 
 In Reformed congregations, presbytery minutes are also an important source for individual cases of church discipline and divorce. Even in Protestant territories, divorces remained under the authority of consistories acting as ecclesiastical marriage courts until the nineteenth century.
-
-# B. Introductory Literature and Inventories of Church Registers
-
-## Preliminary Note
-
-The following survey offers, in Part I, a selection of introductory and general literature and, in its regionally arranged Part II, inventories of church registers.
-
-It is a substantially abridged preliminary printing from a work by the two compilers that was being prepared for publication in 1990 under the title:
-
-> *Church Registers: A Bibliography of Printed Baptismal, Marriage, and Death Registers and of Inventories of Holdings in the German-Speaking Area.*
-
-This bibliography, which—like this handbook of genealogical research—was to be published by Degener & Co. and was compiled by Eckart Henning and Christel Wegeleben, also contains references to separately printed extracts from church registers for individual places, both village and urban congregations.
-
-Here, however, the compilers of Part II had to limit themselves to broader regional compilations of inventories of church registers for individual German states and regions, provinces and governmental districts, cantons, archdioceses, and dioceses.
-
-For reasons of space, inventories at the district level—except cumulative inventories consisting of several volumes—and inventories of individual local congregations had to be omitted, unless they were comprehensive surveys held in state archives, church-register offices, or similar institutions and covered more than one locality.
-
-In this connection, attention should once again be drawn to the unfortunately discontinued series *Genealogical Guides through Town and Country*, and to the *Guide to Research on Ancestors from the Eastern German and Sudeten German Territories and from German Settlement Areas in Central, Eastern, and Southeastern Europe*, published by the Association of East German Genealogists.
-
-As a supplement, one should also consult the *Handbook of Ecclesiastical Archives*, third edition, revised by W. Eger and E. Kätsch, Neustadt an der Aisch, 1986, particularly for determining the addresses of church archives, or the address section concluding this handbook.
-
-## I
-
-**Karl Christ Becker**, *A Scholarly Presentation of the Doctrine of Church Registers, with Appendices on Territorial Church Ordinances*. Cover title: *On Church Registers: A Handbook for Authorities and Clergymen*. Frankfurt, 1831.
-
-*The Importance of Church Registers for Church History and the History of the People* (= Publications of the Protestant Central Archive for the Ecclesiastical Province of Silesia, vol. 1), Berlin-Steglitz, 1936.
-

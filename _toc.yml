@@ -34,7 +34,7 @@ parts:
 
   - caption: Kirchenbücher Background Information
     chapters:
-      - file: kirchenbuehcer-understanding/kirchenbuecher-chapter.md
+      - file: church-registers/church-registers-historical-overview
 
   - caption: NLA Research Strategy
     chapters:
