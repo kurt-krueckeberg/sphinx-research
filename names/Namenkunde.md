@@ -21,7 +21,7 @@ on a personal characteristic, appearance, conduct, or reputation.
 ## Onomastics
 
 Although sources for family history often extend back only a few
-centuries, *Familiennamen* have their roots in earlier times. The name
+centuries, *Familiennamen* (family names) have their roots in earlier times. The name
 has therefore been called, with some justification, the oldest evidence
 of family history. It can provide information about the occupation,
 homeland, or appearance of ancestors at the time when *Familiennamen*
@@ -40,7 +40,7 @@ which remained permissible well into the nineteenth century.
 
 ## *Rufnamen*
 
-Historically, the *Rufname* is older than the *Familienname*. The use of
+Historically, the *Rufname* (personal name or forename) is older than the *Familienname*. The use of
 a single name continued far into the Middle Ages, because life took
 place in small, manageable communities in which one name was sufficient
 to distinguish one person from another. German personal names of that
@@ -180,7 +180,7 @@ Hadubrant, Hiltibrantes sunu. There were also special clan names,
 particularly among ruling families; among other things, the *Rufname* of
 an ancestor was used for this purpose.
 
-Alongside patronymics and clan names there were *Beinamen*, which must
+Alongside patronymics and clan names there were *Beinamen* (additional identifying names), which must
 not be equated with *Familiennamen* despite their similarities.
 *Rufnamen* themselves can be documented as *Beinamen*. Some *Beinamen*
 indicate origin or descent; others identify a place of residence. They
