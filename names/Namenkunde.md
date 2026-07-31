@@ -6,7 +6,7 @@
 Ribbe and Eckart Henning, 10th ed. (Neustadt an der Aisch: Verlag Degener &
 Co., 1990), 344-350
 
-**Translator’s note:** The German terms *Rufname*, *Familienname*,
+**Translation note:** The German terms *Rufname*, *Familienname*,
 *Beiname*, and *Übername* are retained throughout the translation. At
 their first occurrence, they are followed by an English explanation. In
 this chapter, *Rufname* is used broadly for a personal name or forename
