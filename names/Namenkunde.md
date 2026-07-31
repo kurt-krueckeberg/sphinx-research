@@ -79,7 +79,7 @@ gradient and a south–north gradient, together with a contrast between
 town and countryside. A general leveling did not occur until the
 fifteenth century. A social gradient can also be observed. The leading
 strata—princes, nobility, and the patriciate—often led the way in
-adopting foreign *Rufnamen*. Under the influence of mendicant orders,
+adopting foreign personal names Under the influence of mendicant orders,
 Christian *Rufnamen* spread especially rapidly among the urban middle
 class. Particular names rose and fell in popularity according to region
 and period. For the genealogist it is therefore especially valuable to
