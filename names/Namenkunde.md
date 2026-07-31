@@ -24,7 +24,7 @@ Although sources for family history often extend back only a few
 centuries, *Familiennamen* (family names) have their roots in earlier times. The name
 has therefore been called, with some justification, the oldest evidence
 of family history. It can provide information about the occupation,
-homeland, or appearance of ancestors at the time when *Familiennamen*
+homeland, or appearance of ancestors at the time when family names 
 became fixed. Above all, the linguistic form of names—especially names
 derived from places of origin and occupations—as well as their sounds
 and word formation generally permit conclusions about the area in which
