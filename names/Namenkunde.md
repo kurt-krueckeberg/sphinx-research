@@ -29,13 +29,13 @@ became fixed. Above all, the linguistic form of names—especially names
 derived from places of origin and occupations—as well as their sounds
 and word formation generally permit conclusions about the area in which
 they were distributed and thus about the origin of a name-bearer’s
-ancestors. Much the same applies to *Rufnamen*, which varied in their
-regional distribution and also developed differently within particular
-spheres of religious influence. Here too, dialect forms can sometimes be
-observed that permit conclusions about origin. Other names have been
-extensively reshaped, usually through migration, because they were
-adapted, for various reasons, to a new environment. Finally, one of the
-most frequent causes of a change in a name is a change in spelling,
+ancestors. Much the same applies to *Rufnamen* (personal names), which
+varied in their regional distribution and also developed differently within
+particular spheres of religious influence. Here too, dialect forms can
+sometimes be observed that permit conclusions about origin. Other names
+have been extensively reshaped, usually through migration, because they
+were adapted, for various reasons, to a new environment. Finally, one of
+the most frequent causes of a change in a name is a change in spelling,
 which remained permissible well into the nineteenth century.
 
 ## *Rufnamen*
