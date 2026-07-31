@@ -70,7 +70,7 @@ The reception of French romances had a particularly lasting effect.
 During the Middle Ages there was probably no ecclesiastical influence
 favoring an emphatically Christian choice of names. Only when the
 Reformers rejected saints’ names and wished to permit only biblical
-*Rufnamen* did the Church make the saints’ names its own. The Council of
+personal names did the Church make the saints’ names its own. The Council of
 Trent (1545–1563) expressly rejected “heathen” baptismal names and
 required Christian ones.
 
