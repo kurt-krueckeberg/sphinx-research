@@ -65,7 +65,7 @@ naming. The Christian names adopted in this way were generally
 Germanized, as happened analogously in other languages (Latin Jacobus =
 German Jakob = French Jacques = English James = Italian Giacomo).
 
-With Romance culture, foreign secular *Rufnamen* also entered Germany.
+With Romance culture, foreign secular personal names also entered Germany.
 The reception of French romances had a particularly lasting effect.
 During the Middle Ages there was probably no ecclesiastical influence
 favoring an emphatically Christian choice of names. Only when the
