@@ -80,21 +80,21 @@ town and countryside. A general leveling did not occur until the
 fifteenth century. A social gradient can also be observed. The leading
 strata—princes, nobility, and the patriciate—often led the way in
 adopting foreign personal names Under the influence of mendicant orders,
-Christian *Rufnamen* spread especially rapidly among the urban middle
+Christian personal names spread especially rapidly among the urban middle
 class. Particular names rose and fell in popularity according to region
 and period. For the genealogist it is therefore especially valuable to
-trace the history of individual *Rufnamen* and to investigate the
+trace the history of individual personal names and to investigate the
 reasons for their appearance, decline, or complete absence at particular
 times and in particular regions.
 
 In their struggle against the cult of the saints, Protestants replaced
 saints’ names with Old Testament names; Calvinists even permitted only
 biblical names. In opposition, the Synod of Tournai in 1574 prohibited
-the adoption of such names. Yet Old Testament *Rufnamen* survived beyond
+the adoption of such names. Yet Old Testament personal names survived beyond
 the eighteenth century only in orthodox currents of German Protestantism
 and among Puritans, Presbyterians, and Mennonites.
 
-Under the influence of Protestantism, German *Rufnamen* gradually gained
+Under the influence of Protestantism, German personal names gained
 ground. Johann Fischart, for example, promoted them in his
 Geschichtsklitterung, chapter 10. From that time onward the
 arts—especially poetry—proved to be important trendsetters in naming.
@@ -114,7 +114,7 @@ Fürchtegott, Amadeus as Gottlieb, and Adam as Erdmann. Enthusiasm for
 these Protestant-style inventions, to which Catholicism was not entirely
 opposed, soon subsided, however, around 1800.
 
-In its choice of *Rufnamen*, Catholic Germany has remained faithful to
+In its choice of personal names, Catholic Germany has remained faithful to
 medieval tradition down to the present, although at various times
 nonreligious names and a number of foreign saints’ names were also able
 to gain a foothold. The latter development probably goes back to
@@ -127,11 +127,11 @@ Alois.
 Beginning in the late eighteenth century, models from political and
 social life—above all territorial rulers—and from belles-lettres
 increasingly influenced naming. As a result, Italian, Spanish, French,
-English, Russian, and Scandinavian *Rufnamen* spread in Germany
+English, Russian, and Scandinavian personal names spread in Germany
 independently of ecclesiastical influence. The Italian opera and the
 Spanish romance provided impulses in the seventeenth century; enthusiasm
 for English literature did so in the eighteenth; and Russian and Nordic
-poetry did so in the later nineteenth. *Rufnamen* from German literary
+poetry did so in the later nineteenth. Personal names from German literary
 works also became fashionable for a time, including Goethe’s Lotte,
 Schiller’s Johanna, and figures from Richard Wagner’s operas such as
 Eva, Elsa, and Siegfried. Naming in the nineteenth and twentieth
@@ -140,7 +140,7 @@ example Marlitt’s Reichsgräfin Gisela and Meyer-Förster’s play
 Alt-Heidelberg, which gave rise to Karl-Heinz. After the Second World
 War, film heroes and popular singers chiefly occupied this role.
 
-double *Rufnamen* have been widespread since the sixteenth century,
+Double personal names have been widespread since the sixteenth century,
 although they were by no means unknown earlier, as the
 thirteenth-century Wolfdietrich legend shows. The practice probably came
 to Germany from France, although such forms can already be observed in
@@ -150,25 +150,25 @@ north. In the seventeenth century the middle class and the rural
 population also adopted it. The practice declined again in the
 eighteenth century, although several baptismal names continued to be
 given. In the second half of the nineteenth century it revived, as in
-Rudolf Alexander Schröder. At times the number of *Rufnamen* increased
+Rudolf Alexander Schröder. At times the number of personal names increased
 extravagantly—to as many as twenty—causing the Church to take measures
 against such excess. Besides ostentation, other factors also contributed
-to the rise of double *Rufnamen*: a child might be given, in addition to
+to the rise of double personal names a child might be given, in addition to
 his or her own name, the name of the father or mother, a godparent, or a
 particular saint.
 
-German *Rufnamen* were therefore chosen anew in every generation. In
+German personal names were therefore chosen anew in every generation. In
 addition to fashion and regional criteria, sociological and
 psychological considerations played a significant role in the choice of
 a name. The contribution of the various social groups to the stock of
-*Rufnamen* was always unequal, although names did pass from one social
+personal names was always unequal, although names did pass from one social
 group to another. Thus, as Adolf Bach observed, the modern stock of
-*Rufnamen* is an image and expression of the intellectual history of the
+personal names is an image and expression of the intellectual history of the
 German people, both in its unity and in its divisions. It reflects the
 conflict among indigenous Germanic, Christian-ecclesiastical, and
 classical traditions: what was originally native first gave way, but
 everything that has lived in the history of the people appears again, in
-later reflection, in the stock of *Rufnamen*.
+later reflection, in the stock of personal names.
 
 ## *Familiennamen*
 
