@@ -11,8 +11,8 @@ Co., 1990), 344-350
 their first occurrence, they are followed by an English explanation. In
 this chapter, *Rufname* is used broadly for a personal name or forename
 in contrast to a *Familienname*; it does not necessarily identify which
-of several baptismal names was actually used as a person’s everyday call
-name. *Beiname* (additional identifying name) refers to a name added to
+of several baptismal names was actually used as a person’s everyday name.
+*Beiname* (additional identifying name) refers to a name added to
 distinguish a person and may indicate origin, residence, occupation,
 parentage, or another association. *Übername* (descriptive identifying
 name, nickname, or epithet) is a more specific type of *Beiname* based
