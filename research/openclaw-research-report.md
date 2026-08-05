@@ -1,5 +1,6 @@
 # Archival report: Krückeberg family in Berenbusch and nearby communities before 1850
 
+
 ## Research Question
 
 Conduct a systematic investigation of the Arcinsys catalog for the Niedersächsisches Landesarchiv,
