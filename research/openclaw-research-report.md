@@ -137,8 +137,8 @@ transaction chain.
 
 :::
 
-All L 120a items above appear to be analog Justizamt files without an online-use digital copy;
-order/consult at NLA Bückeburg.
+All L 120a items above appear to be analog Justizamt files without an
+online-use digital copy; order/consult at NLA Bückeburg.
 
 ## D. Property, dues, service and village-administration leads
 
