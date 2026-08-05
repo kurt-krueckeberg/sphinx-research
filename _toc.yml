@@ -10,7 +10,6 @@ parts:
       - file: research/bueckeburg-archive-organization
       - file: research/general-research-plan
       - file: research/openclaw-research-report
-      - file: research/openclaw-research-log
       - file: research/hofnamen
       - file: research/tracking-holdings-in-berenbusch
       - file: research/records-with-possible-info-on-holders
