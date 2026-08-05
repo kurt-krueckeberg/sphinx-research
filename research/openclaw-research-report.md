@@ -81,13 +81,19 @@ consultation at NLA Bückeburg.
 
 ## A. Strongly relevant: direct Krückeberg records
 
+:::{div} full-width
+
 | Locality / subject | Date | Complete reference and title | Direct Arcinsys URL | Likely genealogical content | Access |
 |---|---:|---|---|---|---|
 | Berenbusch no. 10; land allotment / new farms | 1817–1818 | **NLA BU, K 2, A Nr. 1291** — *Ausweisung vom Forstgrunde 1. an den Colon Krückeberg Nr. 10 in Berenbusch, 2. an den Einlieger Vogt und Brüggemann zur Errichtung der Neubauerstätten Nr. 13 und Nr. 14 in Nordholz* (old ref. A 15. C. 120) | <https://www.arcinsys.niedersachsen.de/arcinsys/detailAction.action?detailid=v4978697> | Direct identification of the Krückeberg holding; may give the colon’s forename, boundaries, neighbors, obligations, status, petition, approval, and signatures. The linked Nordholz Neubauer files can reveal associates or kin. | Original, Akte, repository location 1800/163, plus security film; no online digital copy indicated. |
 | Berenbusch no. 10; loan/debt/property | 1841–1845 | **NLA BU, K 2, A Nr. 689** — *Ein dem Colon Krückeberg Nr. 10 in Berenbusch aus Kammerkasse dargeliehenes Kapital von 200 Reichstaler Crt.* (old ref. A 4 B 32; classification “Krückeberg”) | <https://www.arcinsys.niedersachsen.de/arcinsys/detailAction.action?detailid=v4988863> | Loan petitions and securities commonly identify borrower, farm, spouse or sureties, property pledged, repayment, and sometimes heirs. It directly bridges no. 10 to the 1849 sale. | Original, Akte, 1800/163, plus security film; order/consult. |
 | Berenbusch no. 10; farm sale | 1849 | **NLA BU, L 120a, D Nr. 174** — *Freiwilliger Verkauf der Stätte des Colons Krückeberg Nr. 10 in Berenbusch* | <https://www.arcinsys.niedersachsen.de/arcinsys/detailAction.action?detailid=v11398118> | Highest-value family event file: sale contract, seller/purchaser, spouse’s consent, debts, encumbrances, farm inventory, relatives/heirs, guardians or witnesses, and prior title may occur. | Arcinsys catalog item; analog Justizamt file, no Nutzungsdigitalisat shown. Order/consult. |
 
+:::
+
 ## B. Strongly relevant: whole-population, householder, farm and survey records
+
+:::{div} full-width
 
 | Locality / subject | Date | Complete reference and title | Direct Arcinsys URL | Why it may identify Krückebergs | Access |
 |---|---:|---|---|---|---|
@@ -100,12 +106,16 @@ consultation at NLA Bückeburg.
 | Petzen and Röcke survey | 1734–1742 | **NLA BU, L 2, L Nr. 27/12** — *Vermessung der Dörfer Röcke und Petzen* | <https://www.arcinsys.niedersachsen.de/arcinsys/detailAction.action?detailid=v4894575> | Parallel survey; may name holders not repeated in the special survey or preserve corrected measurements. | Analog; order/consult. |
 | Petzen/Röcke owner interrogations | 1741–1743 (subsidiary 1662–1738) | **NLA BU, L 2, L Nr. 27/40** — *Protokolle über die Befragung der einzelnen Hofbesitzer in Petzen und Röcke im Rahmen der Generallandesvisitation (Landesvermessung)* | <https://www.arcinsys.niedersachsen.de/arcinsys/detailAction.action?detailid=v4894554> | Individual questioning may record tenure history, inheritance, family relationships, age-old rights, neighbors and earlier deeds. The subsidiary dates suggest older evidence is embedded. | Analog; order/consult. |
 
+:::
+
 ## C. Strong or near-strong Berenbusch farm, marriage, inheritance and debt files
 
 These files do not name Krückeberg in their titles, but they form the immediate
 house-number/property network in which Berenbusch no. 10 existed. They are highly likely to mention
 neighbors, boundaries, witnesses, creditors, co-heirs, previous holders, or the Krückeberg
 transaction chain.
+
+:::{div} full-width
 
 | Date | Complete archival reference and title | Direct URL | Genealogical potential | Relevance |
 |---:|---|---|---|---|
@@ -125,10 +135,14 @@ transaction chain.
 | 1848 | **NLA BU, L 120a, D Nr. 178** — *Verkauf der von dem Colonen Dreyer Nr. 25 in Petzen und Most Nr. 7 in Berenbusch gemeinschaftlich besessenen Stätte Nr. 11 in Berenbusch* | <https://www.arcinsys.niedersachsen.de/arcinsys/detailAction.action?detailid=v11398567> | Cross-village co-ownership, buyers, kin and witnesses; useful for movement Petzen↔Berenbusch. | Strong network lead |
 | 1849 | **NLA BU, L 120a, D Nr. 160** — *Schulden des Colons Most Nr. 4 und Nr. 7 zu Berenbusch*; includes an Indicialia suit | <https://www.arcinsys.niedersachsen.de/arcinsys/detailAction.action?detailid=v11397402> | Court pleadings, creditor/debtor relations, occupations, testimony; same year as no. 10 sale. | Strong network lead |
 
+:::
+
 All L 120a items above appear to be analog Justizamt files without an online-use digital copy;
 order/consult at NLA Bückeburg.
 
 ## D. Property, dues, service and village-administration leads
+
+:::{div} full-width
 
 | Locality / date | Complete reference and title | Direct URL | Potential content and assessment | Access |
 |---|---|---|---|---|
@@ -142,7 +156,11 @@ order/consult at NLA Bückeburg.
 | Berenbusch/Nordholz, 1789 | **NLA BU, L 101a, Kc Nr. 2** — *Zwei abgängig gewordene Kämpe im gemeinen Wege zu Nordholz und Berenbusch, desgleichen vom Wöbkinger Hof Nr. 7 zur Bauernschaft Röcke* | <https://www.arcinsys.niedersachsen.de/arcinsys/detailAction.action?detailid=v4870145> | Land/common-road dispute may identify community representatives and neighboring owners. Possible lead. | Analog; order/consult. |
 | Berenbusch no. 9/Petzen, 1802–1805 | **NLA BU, L 101a, Kc Nr. 10** — *Von dem Einzelpächter Wilharm Nr. 9 zu Berenbusch vom Land des herrschaftlichen Hofes zu Petzen erfolgtes Abgraben und Wegfahren der Erde …* | <https://www.arcinsys.niedersachsen.de/arcinsys/detailAction.action?detailid=v4870108> | Named Berenbusch resident and cross-village land; may contain testimony and neighbor names. Possible lead. | Analog; order/consult. |
 
+:::
+
 ## E. Movement, citizenship, occupations, military/service and surname-variant leads
+
+:::{div} full-width
 
 | Date / locality | Reference and title | Direct URL | Assessment | Access |
 |---|---|---|---|---|
@@ -150,6 +168,8 @@ order/consult at NLA Bückeburg.
 | 1814–1819, Hessisch Oldendorf | **NLA BU, Dep. 59, Nr. 1151** — *Bürgeraufnahmen L–Z*; content/index names **Justus Ferdinand Krückeberg, Zimmermann** | <https://www.arcinsys.niedersachsen.de/arcinsys/detailAction.action?detailid=v4804219> | Direct surname and occupation; citizenship files often give origin, age, family, certificate of conduct and admission terms. However this is Hessisch Oldendorf, not Berenbusch, so treat as a possible collateral/migration lead only. | Item access must be checked; fonds is a municipal deposit. |
 | 1815–1843, Hessisch Oldendorf | **NLA BU, Dep. 59, Nr. 167** — *Stadt-, Gerichts-, Rats- und Schuldiener*; includes election of Sergeant Krückeberg and indexes **Krückenberg, Ernst Christian, Gerichtsdiener** | <https://www.arcinsys.niedersachsen.de/arcinsys/detailAction.action?detailid=v4803748> | Direct surname plus variant, military rank and civic employment. May give service record, origin, age, oath or family. Locality makes it only a possible collateral lead. | Analog municipal file unless item representation says otherwise; verify/order. |
 | 1814, Hessisch Oldendorf | **NLA BU, Dep. 59, Nr. 3204** — *Bürokratische Vorgehensweise bei der Aufnahme von Fremden* | <https://www.arcinsys.niedersachsen.de/arcinsys/detailAction.action?detailid=v4804215> | Context for what documents survive with citizen admissions; not family-specific. | Possible procedural lead. |
+
+:::
 
 Important caution: Arcinsys also indexes **Krückeberg as a village** near Hessisch Oldendorf. Search
 hits must be separated into PERS (person) and GEOB (place). The two Dep. 59 items above are retained
@@ -160,11 +180,15 @@ because their PERS/SACH entries explicitly identify people named Krückeberg/Kr�
 These postdate the target period and are not evidence of a pre-1850 Krückeberg by themselves, but
 they may carry earlier farm histories or pedigrees.
 
+:::{div} full-width
+
 | Date | Reference/title | Direct URL | Use |
 |---:|---|---|---|
 | 1860–1873 | **NLA BU, L 31, Nr. 12** — *Berenbusch: Verzeichnis der Pflichtigen, ihrer Gefälle und Ablösungsbeträge, auch Einzelverträge* | <https://www.arcinsys.niedersachsen.de/arcinsys/detailAction.action?detailid=v5004082> | Whole-village liable-person list and contracts may identify later holder of no. 10, prior obligations, and succession from the 1849 buyer. Analog; order/consult. |
 | 1931–1948 | **NLA BU, L 32, I Nr. 10** — *Evesen – Berenbusch – Nordholz* (Erbhöfe; named holders in content note) | <https://www.arcinsys.niedersachsen.de/arcinsys/detailAction.action?detailid=v5004100> | Erbhof recognition files often required proof of farm and family succession and may contain pedigrees reaching before 1850. Merely possible retrospective lead. |
 | 1910 | **NLA BU, L 102a, Nr. 535** — *Geschlossene Bauernhöfe und das Anerbenrecht; enthält: Höferegister* | <https://www.arcinsys.niedersachsen.de/arcinsys/detailAction.action?detailid=v4873516> | Höferegister may map farm numbers and later owners, enabling backward linkage to no. 10. Merely possible retrospective lead. |
+
+:::
 
 ## G. Catalog structure and related sections to investigate next
 
