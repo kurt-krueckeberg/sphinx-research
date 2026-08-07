@@ -216,11 +216,41 @@
 * - NLA BU, Dep. 53, Acc. 2011/021 Nr. 17
   - Genealogical records
 
-    Genealogische Unterlagen
-
     Includes, among other things:\
-    Bergdorf, Jetenburg, Scheie, Meinsen, Warber, Hevesen, Deinsen, Schierneichen, Seggebruch, Echtorf, Achum,...
-  -
+    - Achum
+    - Berenbusch
+    - Bergdorf
+    - Cammer
+    - Deinsen
+    - Echtorf
+    - Evesen
+    - Frille
+    - Gelldorf
+    - Helpsen
+    - Hevesen
+    - Jetenburg
+    - Kirchhorsten
+    - Kleinenbremen
+    - Levesen
+    - Meinefeld
+    - Meinsen
+    - Müsingen
+    - Petzen
+    - Rusbend
+    - Scheie
+    - Schierneichen
+    - Seggebruch
+    - Selliendorf
+    - Stemmen (Etzerfeld)
+    - Südhorsten
+    - Sülbeck
+    - Tallensen
+    - Vehlen
+    - Warber
+    - Wülpke
+
+    Genealogische Unterlagen
+  - 1740
   -
 
 * - NLA BU, Dep. 53, Acc. 2011/021 Nr. 16
