@@ -258,7 +258,7 @@
 
     Genealogische Unterlagen
 
-    Includes, among other things:\
+    Includes, among other things:
     - Achum
     - Berenbusch
     - Bergdorf
