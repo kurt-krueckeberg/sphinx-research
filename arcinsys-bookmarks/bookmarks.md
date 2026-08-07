@@ -216,7 +216,7 @@
 * - NLA BU, Dep. 53, Acc. 2011/021 Nr. 17
   - Genealogical records
 
-    Includes, among other things:\
+    Includes, among other things:
     - Achum
     - Berenbusch
     - Bergdorf
