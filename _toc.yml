@@ -28,6 +28,10 @@ parts:
           - file: names/suranems-nonimmutable.md
           - file: names/hofname-vs-surname.md
 
+  - caption: Kirchenbücher Background Information
+    chapters:
+      - file: church-registers/church-registers-historical-overview
+
   - caption: 1700 Calendar Change
     chapters:
       - file: calendar/gregory-calendar-introduction
@@ -48,10 +52,6 @@ parts:
             title: Transliteration
           - file: contextual-sources/funke-article/translation
             title: Translation  
-
-  - caption: Kirchenbücher Background Information
-    chapters:
-      - file: church-registers/church-registers-historical-overview
 
   - caption: NLA Research Strategy
     chapters:
