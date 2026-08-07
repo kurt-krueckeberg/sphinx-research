@@ -1,4 +1,4 @@
-# Archival report: Krückeberg family in Berenbusch and nearby communities before 1850
+# OpenClaw Archival report: Krückeberg family in Berenbusch and nearby communities before 1850
 
 
 ## Research Question
