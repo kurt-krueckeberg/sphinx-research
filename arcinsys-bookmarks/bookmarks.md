@@ -218,13 +218,13 @@
 
     Includes, among other things:
     - Achum
-    - Berenbusch
+    - **Berenbusch**
     - Bergdorf
     - Cammer
     - Deinsen
     - Echtorf
-    - Evesen
-    - Frille
+    - **Evesen**
+    - **Frille**
     - Gelldorf
     - Helpsen
     - Hevesen
@@ -260,13 +260,13 @@
 
     Includes, among other things:
     - Achum
-    - Berenbusch
+    - **Berenbusch**
     - Bergdorf
     - Cammer
     - Deinsen
     - Echtorf
-    - Evesen
-    - Frille
+    - **Evesen**
+    - **Frille**
     - Gelldorf
     - Helpsen
     - Hevesen
