@@ -1,50 +1,56 @@
-# How Did Johann Heinrich Obtain His Brinksitzer Holding by Marriage?
+# HOw Did JH Krückeberg Obtain his Brinksitzer through Marriage?
 
-**Target Subject:** Anna Maria Vahlsing (ca. 1701–1757), wife of Johann Henrich Krückeberg
+# Formal Genealogical Research Plan
 
-**Location:** Parish of Petzen, Principality of Schaumburg-Lippe (Berenbusch / Evesen / Höckersau)
+**Target Subject:** Anna Elisabeth / Anna Maria Vahlsing (ca. 1701–1757), wife of Johann Henrich Krückeberg
 
-**Project Objective:** Determine the exact legal and genealogical mechanism by which Johann Henrich Krückeberg acquired the rights to *Brinksitzerstelle* No. 10 in Berenbusch through his 1728 marriage to Anna Maria Vahlsing.
+**Location:** Petzen parish, County of Schaumburg-Lippe
 
----
+**Objective:** Determine how Johann Henrich Krückeberg acquired *Brinksitzerstelle* No. 10 in Berenbusch through his 1728 marriage.
 
-## I. Formal Research Question
+## Research Question
 
-> **How did Anna Maria Vahlsing (ca. 1701–1757), daughter of a landless shepherd at the Höckersau, acquire legal claims or occupancy rights to *Brinksitzerstelle* No. 10 in Berenbusch prior to September 1728, enabling her husband, Johann Henrich Krückeberg, to succeed Friedrich Kuhlmann and Joh. Tönnies Eggerding as *Colon* / head of the holding by marriage (*"habe darauf geheyrahtet"*)?**
+> **Was Anna Elisabeth / Anna Maria Vahlsing previously married to
+> Friedrich Kuhlmann or Joh. Tönnies Eggerding, thereby providing the
+> connection through which Johann Henrich Krückeberg acquired Berenbusch
+> No. 10 when he married her on 28 September 1728?**
 
----
+## Known Evidence
 
-## II. Background & Identified Problem
+* The 1743–1744 *Generallandesvisitation* states that Johann Henrich
+  Krückeberg acquired No. 10 by marriage (*„habe darauf geheyrahtet“*) and
+  identifies Friedrich Kuhlmann and Joh. Tönnies Eggerding as previous
+  holders.
+* Johann Henrich Krückeberg married Anna Maria Vahlsing on 28 September
+  1728.
+* Anna Elisabeth Vahlsing, baptized 19 June 1701, was the daughter of the
+  shepherd at the Höckersau and is believed to be the same woman as Anna
+  Maria Vahlsing.
 
-1. **Direct Statement of Possession:** In the 1743–1744 *Generallandesvisitation* (land survey protocol) for Berenbusch, Johann Henrich Krückeberg stated that he acquired *Brinksitzerstelle* No. 10 by marrying onto it (*"habe darauf geheyrahtet"*), succeeding previous holders Friedrich Kuhlmann and Joh. Tönnies Eggerding.
-2. **The Marriage Record:** On 28 September 1728, Johann Henrich Krückeberg of Berenbusch married Anna Maria Vahlsing of Evesen in the parish of Petzen. She was recorded under her birth patronymic (*Vahlsing*) without an explicit label of widowhood (*Vidua*).
-3. **Paternal Status Conflict:** Anna Maria was baptized on 19 June 1701 as the daughter of the local shepherd at the Höckersau (*"des Schäfers auf der Höckersau"*). Her biological father lived until 1730 and owned no agricultural land, precluding direct paternal inheritance of Stätte No. 10.
-4. **Research Problem:** Under Westphalian/Schaumburg *Anerbenrecht* (estate inheritance law), rights to a farmstead passed via single-heir succession or widowhood. Since her landless father was alive in 1728, Anna Maria’s legal connection to Stätte No. 10 must have occurred either through a brief, unnoted prior marriage to Kuhlmann or Eggerding, or via maternal step-parental succession.
+## Working Hypotheses
 
----
+1. Anna Elisabeth / Anna Maria Vahlsing was previously married to **Friedrich Kuhlmann**.
+2. She was previously married to **Joh. Tönnies Eggerding**.
 
-### III. Working Hypotheses
+In either case, the death of the earlier husband could explain her connection to No. 10 and Krückeberg's subsequent statement that he had married onto the holding.
 
-* **Hypothesis A (Prior Marriage / Young Widowhood):** Anna Maria Vahlsing married Friedrich Kuhlmann or Joh. Tönnies Eggerding between ca. 1718 and 1726. Upon his death (ca. 1725–1728), she held temporary life-estate rights (*Witwenrecht*) to Stätte No. 10. The 1728 marriage to Krückeberg provided the required male head of household to fulfill feudal duties (*Burgfesten*, hand-services).
-* **Hypothesis B (Maternal Remarriage / Step-Parental Succession):** Following the death of the shepherd, or an unrecorded family transition prior to 1720, Anna Maria's mother remarried Friedrich Kuhlmann or Joh. Tönnies Eggerding at Berenbusch No. 10. Lacking male heirs, Anna Maria became the designated heiress (*Anerbin*) of the holding, carrying the occupancy rights into her 1728 marriage.
+## Research Steps
 
----
+1. Search the **Petzen marriage register**, approximately **1718–1728**,
+   for a marriage of Anna Elisabeth/Anna Maria Vahlsing to Kuhlmann or
+   Eggerding.
+2. Search the **Petzen burial register**, concentrating on the years
+   immediately preceding September 1728, for the death of Friedrich
+   Kuhlmann or Joh. Tönnies Eggerding.
+3. If the parish registers establish a prior marriage, search **NLA
+   Bückeburg administrative or estate records** for Berenbusch No. 10
+   around the relevant succession date to determine how the holding passed to
+   Krückeberg.
+4. **Only if these searches fail**, broaden the investigation to determine
+   another explanation for Anna's connection with No. 10.
 
-### IV. Proposed Sources & Methodology
+## Expected Result
 
-#### 1. Petzen Parish Registers (*Kirchenbücher*) — Search Window: 1715–1735
-
-* **Target 1 (Marriages):** Search marriage entries (1715–1728) for a marriage between *Anna Maria Vahlsing* (or *Schäfers*) and either *Friedrich Kuhlmann* or *Joh. Tönnies Eggerding*.
-* **Target 2 (Burials):** Search burial entries (1720–September 1728) for the deaths of *Friedrich Kuhlmann* or *Joh. Tönnies Eggerding* at Berenbusch No. 10.
-* **Target 3 (Maternal Marriage):** Search marriage entries (1705–1725) for a marriage between the shepherd's widow/wife and a Kuhlmann or Eggerding.
-
-#### 2. Manorial & Archival Records (NLA Bückeburg)
-
-* **Urbaria / Salbücher (Estate Books):** Examine mid-18th-century land registers for Berenbusch Stätte No. 10 to trace listed property transfers, entry fines (*Auffahrtsgeld* / *Erbe* fees noted in Reply 19b), and designated *Anerben*.
-* **Hypothekenbücher (Mortgage & Transfer Books):** Review local judicial or sovereign estate transfer approvals for Berenbusch No. 10 surrounding the 1728 contract date.
-
----
-
-### V. Expected Outcome
-
-Correlation of burial or marriage data with the 1743–1744 protocol entries will establish the precise chain of title for Stätte No. 10, resolving the status of Anna Maria Vahlsing and satisfying the Genealogical Proof Standard (GPS) regarding Johann Henrich Krückeberg's origin and property acquisition.
+The research should determine whether Krückeberg's statement *„habe darauf
+geheyrahtet“* reflects his marriage to the widow of one of the preceding
+holders of Berenbusch No. 10, and, if so, identify that previous husband.
