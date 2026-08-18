@@ -7,6 +7,7 @@ parts:
       - file: education/finding-more-info
   - caption: Research
     chapters:
+      - file: research/how-did-jhkrueckeberg-obtain-his-brinksitzer-holding
       - file: research/bueckeburg-archive-organization
       - file: research/general-research-plan
       - file: research/openclaw-research-report
