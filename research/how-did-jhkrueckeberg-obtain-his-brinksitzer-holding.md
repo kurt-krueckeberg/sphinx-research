@@ -8,13 +8,13 @@
 
 ---
 
-### I. Formal Research Question
+## I. Formal Research Question
 
 > **How did Anna Maria Vahlsing (ca. 1701–1757), daughter of a landless shepherd at the Höckersau, acquire legal claims or occupancy rights to *Brinksitzerstelle* No. 10 in Berenbusch prior to September 1728, enabling her husband, Johann Henrich Krückeberg, to succeed Friedrich Kuhlmann and Joh. Tönnies Eggerding as *Colon* / head of the holding by marriage (*"habe darauf geheyrahtet"*)?**
 
 ---
 
-### II. Background & Identified Problem
+## II. Background & Identified Problem
 
 1. **Direct Statement of Possession:** In the 1743–1744 *Generallandesvisitation* (land survey protocol) for Berenbusch, Johann Henrich Krückeberg stated that he acquired *Brinksitzerstelle* No. 10 by marrying onto it (*"habe darauf geheyrahtet"*), succeeding previous holders Friedrich Kuhlmann and Joh. Tönnies Eggerding.
 2. **The Marriage Record:** On 28 September 1728, Johann Henrich Krückeberg of Berenbusch married Anna Maria Vahlsing of Evesen in the parish of Petzen. She was recorded under her birth patronymic (*Vahlsing*) without an explicit label of widowhood (*Vidua*).
