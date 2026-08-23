@@ -27,21 +27,31 @@ Below is the actual example from the Petzen parish *Verzeichnis der Getauften un
 
 1708 Baptism Record
 ```
-
 The transliteration of the text in the image is
 
 ```{div} doc-text
 d 11 Mey Hans Jürgen Meyer alias Heine auß Nordholtz eine Tochter tauffen laßen, welche von seiner Mutter Catharina Margretha genant:
 ```
 
-which translates as
-
-**TODO**: See hofname/surname-vs-hofname.md for clarification on which is the surname and which is the
-Hofname in these records. It makes the most sense.
+which translates as:
 
 ```{div} doc-text
-On 11 May, Hans Jürgen Meyer, alias Heine, of Nordholz, had a daughter
-baptized, who was named Catharine Margrete after her mother.
+On May 11th, Hans Jürgen Meyer, alias Heine, from Nordholz had a daughter
+baptized, who was named Catharina Margretha by his mother.
+
+In this baptismal entry, **Heine** is the **Hofname** (or **Hausname**),
+while **Meyer** is the individual’s original family name or legal surname.
+
+The Latin indicator **"alias"** (meaning "otherwise called" or "also known
+as") was used by pastors in German church records to show that a person or
+family had taken on a farm name (or house/property name) upon moving to or
+acquiring a specific property.
+
+Here is the breakdown of the names in your 1708 entry:
+
+* **Hans Jürgen Meyer:** The individual's primary or birth surname (*Familienname*).
+* **alias Heine:** Indicates that Hans Jürgen is residing at or managing the **Heine** farm (*Hof*). In local usage, he and his household would be known to the village as the "Heine" family.
+* **auß Nordholtz:** His place of residence or origin (Nordholz).
 ```
 
 Below is another example found one image 109 of the same volume.[^2]
