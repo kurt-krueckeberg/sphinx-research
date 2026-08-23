@@ -38,6 +38,7 @@ which translates as:
 ```{div} doc-text
 On May 11th, Hans Jürgen Meyer, alias Heine, from Nordholz had a daughter
 baptized, who was named Catharina Margretha by his mother.
+```
 
 In this baptismal entry, **Heine** is the **Hofname** (or **Hausname**),
 while **Meyer** is the individual’s original family name or legal surname.
