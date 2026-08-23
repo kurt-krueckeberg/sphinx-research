@@ -84,8 +84,6 @@ Here Meyer is functioning as the Hofname because it is being used as his
 recorded name, while Kuhlmann identifies his family origin. No alias or
 genannt is needed, but the contrast makes the Hofname visible.
 
-**TODO:** Mention background as related and elaborted by Eberhardt.
-
 Here is an actual example from the Kleinenbremen parish[^3].
 
 ```{figure} images/kleinenbremen-11-aug-1778.jpg
