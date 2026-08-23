@@ -82,7 +82,7 @@ Here is an actual example from the Kleinenbremen parish[^3].
 :class: image-override
 ```
 
-The father's name shown in column ??? is **Johann Henrich Drinkuth Niederhahne**
+The father's name shown in column three is **Johann Henrich Drinkuth Niederhahne**
 
 Pastors used Hofnamen because villages often had many people with the same
 given names and surnames. The holding name helped identify the exact
