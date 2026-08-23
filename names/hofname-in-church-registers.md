@@ -53,7 +53,6 @@ Here is the breakdown of the names in your 1708 entry:
 * **Hans Jürgen Meyer:** The individual's primary or birth surname (*Familienname*).
 * **alias Heine:** Indicates that Hans Jürgen is residing at or managing the **Heine** farm (*Hof*). In local usage, he and his household would be known to the village as the "Heine" family.
 * **auß Nordholtz:** His place of residence or origin (Nordholz).
-```
 
 Below is another example found one image 109 of the same volume.[^2]
 
