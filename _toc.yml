@@ -57,6 +57,7 @@ parts:
   - caption: NLA Research Strategy
     chapters:
       - file: strategy-4-nla-research/report-on-nla-research-strategy          
+      - file: strategy-4-nla-research/openclaw-to-assess-bueckebuerg-documents
 
   - caption: Arcinsys Research Guide
     chapters:
