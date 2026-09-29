@@ -2,9 +2,6 @@ format: jb-book
 root: index
 
 parts:
-  - caption: Research Educational Lectures
-    chapters:
-      - file: education/finding-more-info
   - caption: Research
     chapters:
       - file: research/how-did-jhkrueckeberg-obtain-his-brinksitzer-holding
