@@ -1,12 +1,10 @@
 # All Arcinsys Niedersachen Bookmarks
 
-The documents that should first be consulted and examined are these two
-documents with genealogies:
+These two documents should be consulted first; they are the most likely to
+open doors to further research:
 
 - **NLA BU, Dep. 53, Acc. 2011/021 Nr. 16** from 1740
 - **NLA BU, Dep. 29, Nr. 789** from 1693
-
-These are most likely to open doors to further research.
 
 ```{list-table}
 :header-rows: 1
