@@ -58,20 +58,20 @@ parts:
 
   - caption: Arcinsys Research Guide
     chapters:
-      - file: arcinsys-guide/ch1
-      - file: arcinsys-guide/ch2
-      - file: arcinsys-guide/ch3
-      - file: arcinsys-guide/ch4
-      - file: arcinsys-guide/ch5
-      - file: arcinsys-guide/ch6
-      - file: arcinsys-guide/ch7
-      - file: arcinsys-guide/ch8
-      - file: arcinsys-guide/ch9
-      - file: arcinsys-guide/ch10
-      - file: arcinsys-guide/ch11
-      - file: arcinsys-guide/ch12
-      - file: arcinsys-guide/ch13
-      - file: arcinsys-guide/ch14
-      - file: arcinsys-guide/ch15
-      - file: arcinsys-guide/ch16
-      - file: arcinsys-guide/ch17
+      - file: guide-to-arcinsys/ch1
+      - file: guide-to-arcinsys/ch2
+      - file: guide-to-arcinsys/ch3
+      - file: guide-to-arcinsys/ch4
+      - file: guide-to-arcinsys/ch5
+      - file: guide-to-arcinsys/ch6
+      - file: guide-to-arcinsys/ch7
+      - file: guide-to-arcinsys/ch8
+      - file: guide-to-arcinsys/ch9
+      - file: guide-to-arcinsys/ch10
+      - file: guide-to-arcinsys/ch11
+      - file: guide-to-arcinsys/ch12
+      - file: guide-to-arcinsys/ch13
+      - file: guide-to-arcinsys/ch14
+      - file: guide-to-arcinsys/ch15
+      - file: guide-to-arcinsys/ch16
+      - file: guide-to-arcinsys/ch17
