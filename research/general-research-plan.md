@@ -56,37 +56,37 @@ Next get the genealogies in the Bückeburg regional department of hte Lower Saxo
   - 1693
 * - [NLA BU, Dep. 53, Acc. 2011/021 Nr. 17](https://www.arcinsys.niedersachsen.de/arcinsys/showArchivalDescriptionDetails.action?archivalDescriptionId=4960499)
   - Enthält u.a.:
-    Bergdorf
-    -  Jetenburg
-    -  Scheie
-    -  Meinsen
-    -  Warber
-    -  Hevesen
-    -  Deinsen
-    -  Schierneichen
-    -  Seggebruch
-    -  Echtorf
-    -  Achum
-    -  Müsingen
-    -  Helpsen
-    -  Sülbeck
-    -  Meinefeld
-    -  Vehlen
-    -  Gelldorf
-    -  Selliendorf
-    -  Evesen
-    -  Frille
-    -  Kleinenbremen
-    -  Wülpke
-    -  Rusbend
-    -  Tallensen
-    -  Stemmen (Etzerfeld)
-    -  Levesen
-    -  Kirchhorsten
-    -  Südhorsten
-    -  Petzen
-    -  Berenbusch
-    -  Cammer
+    - Bergdorf
+    - Jetenburg
+    - Scheie
+    - Meinsen
+    - Warber
+    - Hevesen
+    - Deinsen
+    - Schierneichen
+    - Seggebruch
+    - Echtorf
+    - Achum
+    - Müsingen
+    - Helpsen
+    - Sülbeck
+    - Meinefeld
+    - Vehlen
+    - Gelldorf
+    - Selliendorf
+    - Evesen
+    - Frille
+    - Kleinenbremen
+    - Wülpke
+    - Rusbend
+    - Tallensen
+    - Stemmen (Etzerfeld)
+    - Levesen
+    - Kirchhorsten
+    - Südhorsten
+    - Petzen
+    - Berenbusch
+    - Cammer
   - 1740
 ```
 
