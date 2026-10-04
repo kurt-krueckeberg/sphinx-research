@@ -14,7 +14,7 @@ Next get the genealogies in the Bückeburg regional department of hte Lower Saxo
 **Kuhlmann** and **Eggerding** were the holders of no. 10 Berenbusch mentioned in
 {external+nla:doc}`Records of the questioning of the individual rural property holders in Evesen, Berenbusch, Nordholz, and Rusbend in the context of the General Land Survey <2741/index>`.
 
- ```{list-table}
+```{list-table}
 :header-rows: 1
 
 * - Identifier
