@@ -1,10 +1,10 @@
 # General Research Plan 
 
-Write up what I know and can prove so far and put it on <https://anc.krueckeberg.org>.
+Write up what I believe we can prove is our direct ancestry so far, and put it at <https://anc.krueckeberg.org>.
 
 ## Get the Genealogies
 
-Get the genealogies in the Bückeburg regional department of hte Lower Saxony archives for 
+Next get the genealogies in the Bückeburg regional department of hte Lower Saxony archives for 
 
 - Krückeberg
 - Weiland
@@ -13,6 +13,73 @@ Get the genealogies in the Bückeburg regional department of hte Lower Saxony ar
 
 **Kuhlmann** and **Eggerding** were the holders of no. 10 Berenbusch mentioned in
 {external+nla:doc}`Records of the questioning of the individual rural property holders in Evesen, Berenbusch, Nordholz, and Rusbend in the context of the General Land Survey <2741/index>`.
+
+|Identifier|Denotation|Lead and lag time from|
+| -------- | -------- |--------------------- |
+|[NLA BU, Dep. 53, Acc. 2011/021 Nr. 16](https://www.arcinsys.niedersachsen.de/arcinsys/showArchivalDescriptionDetails.action?archivalDescriptionId=4960504)|Enthält u.a.:\
+- Bergdorf
+- Jetenburg
+- Scheie
+- Meinsen
+- Warber
+- Hevesen
+- Deinsen
+- Schierneichen
+- Seggebruch
+- Echtorf
+- Achum
+- Müsingen
+- Helpsen
+- Sülbeck
+- Meinefeld
+- Vehlen
+- Gelldorf
+- Selliendorf
+- Evesen
+- Frille
+- Kleinenbremen
+- Wülpke
+- Rusbend
+- Tallensen
+- Stemmen (Etzerfeld)
+- Levesen
+- Kirchhorsten
+- Südhorsten
+- Petzen
+- Berenbusch
+- Cammer|1693|
+|[NLA BU, Dep. 53, Acc. 2011/021 Nr. 17](https://www.arcinsys.niedersachsen.de/arcinsys/showArchivalDescriptionDetails.action?archivalDescriptionId=4960499)| Enthält u.a.:\
+ Bergdorf
+-  Jetenburg
+-  Scheie
+-  Meinsen
+-  Warber
+-  Hevesen
+-  Deinsen
+-  Schierneichen
+-  Seggebruch
+-  Echtorf
+-  Achum
+-  Müsingen
+-  Helpsen
+-  Sülbeck
+-  Meinefeld
+-  Vehlen
+-  Gelldorf
+-  Selliendorf
+-  Evesen
+-  Frille
+-  Kleinenbremen
+-  Wülpke
+-  Rusbend
+-  Tallensen
+-  Stemmen (Etzerfeld)
+-  Levesen
+-  Kirchhorsten
+-  Südhorsten
+-  Petzen
+-  Berenbusch
+-  Cammer |1740|
 
 ## Other Steps
 
