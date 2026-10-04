@@ -1,6 +1,20 @@
 # General Research Plan 
 
-**NEW UPDATEED APPROACH:**
+Write up what I know and can prove so far and put it on <https://anc.krueckeberg.org>.
+
+## Get the Genealogies
+
+Get the genealogies in the Bückeburg regional department of hte Lower Saxony archives for 
+
+- Krückeberg
+- Weiland
+- Kuhlmann, and 
+- Eggerding
+
+**Kuhlmann** and **Eggerding** were the holders of no. 10 Berenbusch mentioned in
+{external+nla:doc}`Records of the questioning of the individual rural property holders in Evesen, Berenbusch, Nordholz, and Rusbend in the context of the General Land Survey <2741/index>`.
+
+## Other Steps
 
 Find out which record-generating entities existed within the old-government record group. These will be
 the Bestände ("fonds"). See the Arcinsys description of the [three authorities of the old government](https://www.arcinsys.niedersachsen.de/arcinsys/detailAction.action?detailid=b659).
