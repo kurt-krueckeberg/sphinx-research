@@ -21,7 +21,7 @@ Next get the genealogies in the Bückeburg regional department of hte Lower Saxo
   - Denotation
   - Lead and lag time from
 * - [NLA BU, Dep. 53, Acc. 2011/021 Nr. 16](https://www.arcinsys.niedersachsen.de/arcinsys/showArchivalDescriptionDetails.action?archivalDescriptionId=4960504)
-  - Enthält u.a.:
+  - Contains (among other things):
     - Bergdorf
     - Jetenburg
     - Scheie
@@ -55,7 +55,7 @@ Next get the genealogies in the Bückeburg regional department of hte Lower Saxo
     - Cammer
   - 1693
 * - [NLA BU, Dep. 53, Acc. 2011/021 Nr. 17](https://www.arcinsys.niedersachsen.de/arcinsys/showArchivalDescriptionDetails.action?archivalDescriptionId=4960499)
-  - Enthält u.a.:
+  - Contains (among other things):
     - Bergdorf
     - Jetenburg
     - Scheie
