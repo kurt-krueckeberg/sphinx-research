@@ -1,6 +1,6 @@
 # Über die Verhältnisse der Einlieger in den Fürstentümern Lippe-Detmold und Schaumburg-Lippe`*)`
 
-The citation is at the {ref}`bottom <citation>`.
+The citation is at the {ref}`bottom <funke-transliteration-citation>`.
 
 ## I. Lippe-Detmold
 
@@ -1072,7 +1072,7 @@ Nivellierung, mit welcher Standessitte und Ehre verschwindet, zu bewahren.
 
 ## Citation
 
-(citation)= 
+(funke-transliteration-citation)= 
 
 Georg Funke, "Ueber die Verhältnisse der Einlieger in Lippe-Detmold und Schaumburg-Lippe," Zeitschrift des Vereins für Deutsche Statistik 2 (Berlin: Schneider, 1848), 1104–1122; digital images, Münchener DigitalisierungsZentrum / Digitale Bibliothek, Bayerische Staatsbibliothek, Munich, <https://www.digitale-sammlungen.de/view/bsb10709532?page=1142%2C1143> : accessed 28 June 2026; catalog record, <https://mdz-nbn-resolving.de/details:bsb10709532>; BSB call no. BHS VI 32-2.
 

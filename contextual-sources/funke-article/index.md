@@ -9,7 +9,7 @@ Statistik** ("Journal of the German Statistical Society") on pages
   
 ## Citation
 
-(citation)= 
+(funke-citation)= 
 
 Georg Funke, "Ueber die Verhältnisse der Einlieger in Lippe-Detmold und Schaumburg-Lippe," Zeitschrift des Vereins für Deutsche Statistik 2
 (Berlin: Schneider, 1848), [1104–1122](https://www.digitale-sammlungen.de/view/bsb10709532?page=1142%2C1143); digital images, Münchener DigitalisierungsZentrum / Digitale Bibliothek, Bayerische Staatsbibliothek,

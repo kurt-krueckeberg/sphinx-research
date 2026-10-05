@@ -1171,7 +1171,7 @@ Ziegelbote
 
 ## Citation
 
-(citation)= 
+(funke-translation-citation)= 
 
 Georg Funke, "Ueber die Verhältnisse der Einlieger in Lippe-Detmold und
 Schaumburg-Lippe," Zeitschrift des Vereins für Deutsche Statistik 2
